@@ -12,11 +12,11 @@ These are the tasks in Synthetitastic:
   - Largest number (eg "What is the largest number without the letter o? Reply with just the decimal number. Exclude numbers like googolplex.")
   - Letter counting (eg "How many 'e' are in 'bestseller'? Just say the number.")
 - Multimodal (text and images in / text out)
-  - Clock reading
   - Angle identification
-  - Point identification
+  - Clock reading
   - Icon recognition
   - Object counting
+  - Point identification
 - Reward (text in / free response out)
   - TODO
 
