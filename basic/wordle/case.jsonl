@@ -1,0 +1,993 @@
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbawds: 🟨🟨⬛🟩⬛\nzemni: ⬛🟨⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"abide"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\natony: 🟩🟨🟩⬛⬛\nspurl: ⬛⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"about"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\naevum: 🟩🟨🟨⬛⬛\nblade: 🟨⬛🟨⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"above"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbhalu: 🟨⬛🟨⬛🟨\nsprue: 🟨⬛⬛🟨🟩\n\nWhat must be the target word? Just provide the word.","output":"abuse"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nchime: 🟨⬛🟩⬛⬛\nligas: ⬛🟨⬛🟨🟩\n\nWhat must be the target word? Just provide the word.","output":"acids"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nautor: 🟩⬛🟩⬛⬛\nacoin: 🟩🟩⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"acted"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\narite: 🟩⬛⬛🟩🟩\ncures: 🟨🟨⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"acute"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntrips: 🟨⬛⬛🟩⬛\nmodge: ⬛⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"adapt"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nentad: 🟨⬛⬛🟨🟩\nwarts: ⬛🟨⬛⬛⬛\nlepid: ⬛🟨⬛⬛🟩\nsadhe: ⬛🟨🟩⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"added"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nrinds: ⬛🟨🟨🟨⬛\nmazes: 🟨🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"admin"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntimar: 🟨🟨🟩🟨⬛\nsmalt: ⬛🟨🟨⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"admit"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nderth: 🟨⬛⬛🟨⬛\ngoral: ⬛🟨⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"adopt"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nstale: ⬛🟨🟨🟩⬛\npanus: ⬛🟨⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"adult"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfared: 🟨🟨🟨🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"after"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nserin: ⬛⬛⬛🟩🟩\ngnarl: 🟨🟨🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"again"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nabune: 🟩⬛⬛🟩🟨\nrotch: ⬛⬛🟨⬛⬛\ngulps: 🟨⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"agent"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\naking: 🟩⬛🟩🟩🟩\naglet: 🟩🟩⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"aging"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\naigre: 🟩⬛🟨🟨🟩\nelaic: 🟨⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"agree"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nadits: 🟩🟨⬛⬛⬛\nhulas: 🟨⬛⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"ahead"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\naroid: 🟩⬛⬛🟨🟩\nrides: ⬛🟩🟩🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"aided"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nlimer: ⬛🟩🟩🟩⬛\nomrah: ⬛🟨⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"aimed"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nflrie: ⬛🟩🟨⬛⬛\numbre: ⬛🟨⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"alarm"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nnable: ⬛🟨🟩🟨⬛\nnomes: ⬛⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"album"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nslour: ⬛🟩⬛⬛🟨\nfrapp: ⬛🟨🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"alert"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nwhils: ⬛⬛🟩🟨🟩\naxite: 🟩⬛🟩⬛⬛\nfixup: ⬛🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"alias"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nslite: ⬛🟩🟩⬛🟨\nbemat: ⬛🟨⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"alien"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\norage: ⬛⬛🟨🟩⬛\naboil: 🟩⬛⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"align"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npikle: ⬛🟨🟨🟨🟩\nelaic: 🟨🟩🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"alike"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nvoila: 🟨⬛🟩🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"alive"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nomlah: 🟨⬛🟩🟨⬛\nalike: 🟩🟩⬛⬛⬛\nedict: ⬛⬛⬛⬛⬛\ntalky: ⬛🟨🟩⬛⬛\nwordy: 🟨🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"allow"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncafoy: ⬛🟨⬛🟩🟩\ntelos: ⬛⬛🟩🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"alloy"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndoand: ⬛🟨🟨🟩⬛\nsalue: ⬛🟨🟨⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"alone"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nowing: 🟨⬛⬛🟩🟩\nnaily: 🟨🟨⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"along"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nflout: ⬛🟩🟩🟩⬛\nunram: 🟨⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"aloud"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nalfet: 🟩🟩⬛🟩🟨\n\nWhat must be the target word? Just provide the word.","output":"alter"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\njimbo: ⬛🟨🟨⬛🟩\ndraft: ⬛⬛🟨⬛⬛\nspung: ⬛⬛⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"amino"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ngoaty: 🟨🟨🟨⬛⬛\nspane: ⬛⬛🟨🟩⬛\nighly: ⬛🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"among"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncarne: ⬛🟨🟨🟨🟨\nloges: ⬛⬛🟩🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"anger"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndungy: ⬛⬛🟨🟨🟩\ncures: ⬛⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"angry"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nthyme: ⬛⬛⬛🟩🟩\nuncia: ⬛🟩⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"anime"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nunoil: ⬛🟩⬛⬛🟨\nitemy: ⬛⬛🟨⬛⬛\ncines: ⬛⬛🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"ankle"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nrelax: ⬛🟨⬛🟨🟩\ntendo: ⬛🟨🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"annex"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nacoup: 🟩⬛⬛⬛🟨\nrecpt: 🟨⬛⬛🟨🟩\n\nWhat must be the target word? Just provide the word.","output":"apart"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nepulo: ⬛🟩⬛🟩⬛\nlapin: 🟨🟨🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"apply"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nmenat: ⬛🟨⬛🟩⬛\nwarts: ⬛🟨🟨⬛🟩\naired: 🟩⬛🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"areas"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nurnae: 🟨🟩⬛🟨🟩\nstagy: ⬛⬛🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"argue"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nrails: 🟨🟨🟩⬛🟨\nlatke: ⬛🟨⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"arise"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nkamel: ⬛🟨🟩🟩⬛\nadrue: 🟩🟨🟨⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"armed"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nadmin: 🟩⬛🟩⬛⬛\nporks: ⬛🟨🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"armor"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\natren: 🟩⬛🟩⬛⬛\nmauby: ⬛🟨⬛⬛🟩\nfarls: ⬛🟨🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"array"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nwarly: 🟨🟨🟩⬛⬛\nknosp: ⬛⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"arrow"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nadion: 🟩🟨🟩⬛⬛\ncadus: ⬛🟨🟨⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"aside"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsabed: 🟨🟨⬛🟩🟩\naskew: 🟩🟩🟩🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"asked"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nannas: 🟩⬛⬛🟩🟨\ndirty: ⬛⬛⬛⬛🟩\nwifed: ⬛⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"assay"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntikes: 🟨⬛⬛🟩🟨\nhadit: ⬛🟨⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"asset"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndural: 🟨🟩⬛🟨⬛\nshoji: ⬛⬛🟨⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"audio"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nabdom: 🟩⬛🟩⬛⬛\nutero: 🟨🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"audit"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nlours: ⬛🟨🟨⬛🟩\nnomap: ⬛🟨⬛🟨⬛\nmetas: ⬛⬛🟩🟨🟩\n\nWhat must be the target word? Just provide the word.","output":"autos"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\namvis: 🟩⬛🟨🟩⬛\nisled: 🟨⬛⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"avoid"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\namate: 🟩⬛🟩⬛🟩\nnarky: ⬛🟨⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"awake"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsworn: ⬛🟩⬛🟩⬛\ndisco: 🟨⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"award"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nansae: 🟩⬛⬛🟨🟩\nshark: ⬛⬛🟩🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"aware"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nswank: ⬛🟩🟨⬛⬛\nelbow: ⬛🟨⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"awful"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndabby: ⬛🟩🟩🟨⬛\nbesot: 🟩🟨🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"babes"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbouge: 🟩⬛⬛🟩🟩\nidose: ⬛🟨⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"badge"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncodas: ⬛⬛🟩🟨⬛\nlungy: 🟨⬛⬛⬛🟩\nboryl: 🟩⬛⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"badly"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbinge: 🟩⬛⬛⬛🟨\nbulak: 🟩⬛⬛🟨🟨\nflied: ⬛⬛⬛🟩🟩\n\nWhat must be the target word? Just provide the word.","output":"baked"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsoily: 🟨⬛⬛🟩⬛\nbaled: 🟩🟩🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"balls"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndaint: 🟨🟩⬛🟨⬛\nvibes: ⬛⬛🟨⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"bands"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsourd: 🟨⬛⬛⬛🟩\nbotas: 🟩⬛⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"based"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nrehab: ⬛🟨⬛🟨🟨\nbirls: 🟩⬛⬛⬛🟩\nhasnt: ⬛🟩🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"bases"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntangi: ⬛🟩🟨⬛🟨\nesbay: ⬛🟨🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"basin"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfairs: ⬛🟩🟨⬛🟩\nbacky: 🟩🟩⬛⬛⬛\nrebia: ⬛⬛🟨🟩🟨\n\nWhat must be the target word? Just provide the word.","output":"basis"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbecks: 🟩⬛🟨⬛⬛\nsauch: ⬛🟩⬛🟩🟩\n\nWhat must be the target word? Just provide the word.","output":"batch"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntushy: 🟨⬛🟨🟩⬛\nbanjo: 🟩🟩⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"baths"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbeman: 🟩🟩⬛🟨⬛\ndangs: 🟨🟨⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"beads"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\netang: 🟨⬛🟩🟩⬛\nwards: ⬛🟨⬛⬛🟩\nbunks: 🟩⬛🟨⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"beans"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nyearn: ⬛🟩🟩🟩⬛\ndebat: ⬛🟩🟨🟨⬛\nbikes: 🟩⬛⬛🟨🟩\n\nWhat must be the target word? Just provide the word.","output":"bears"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nrebus: ⬛🟩🟨⬛🟨\ncista: ⬛⬛🟨🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"beast"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npasty: ⬛🟨🟨🟩⬛\njiboa: ⬛⬛🟨⬛🟨\nancle: 🟨⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"beats"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndeign: ⬛🟩⬛🟨🟩\nloamy: ⬛⬛🟨⬛⬛\nvidry: ⬛⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"began"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nabaue: ⬛🟨⬛🟩🟨\nsigns: ⬛⬛🟩🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"begun"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbisks: 🟩🟨⬛⬛⬛\nporgy: ⬛⬛⬛🟩⬛\natole: ⬛⬛⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"beige"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nswive: ⬛⬛🟩⬛🟨\nboned: 🟩⬛🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"being"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nnobly: ⬛⬛🟨🟩🟩\njehad: ⬛🟩⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"belly"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nlegoa: 🟨🟩⬛🟩⬛\nwould: 🟨🟨⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"below"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbatea: 🟩⬛🟨🟨⬛\nlepry: 🟨🟩⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"belts"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbungs: 🟩⬛🟩⬛⬛\nmaneh: ⬛⬛🟩🟨🟩\n\nWhat must be the target word? Just provide the word.","output":"bench"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbokom: 🟩⬛🟩⬛⬛\nunbar: ⬛⬛🟨⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"biker"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nkebar: 🟨🟨🟨⬛⬛\nsebat: 🟨🟨🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"bikes"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfondu: ⬛🟨🟩⬛⬛\nbemas: 🟩⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"bingo"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nhorny: 🟨⬛🟩⬛⬛\naboil: ⬛🟨⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"birth"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbawds: 🟩🟨⬛🟩⬛\npenal: ⬛🟨⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"blade"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nclime: ⬛🟩⬛🟩🟩\nadieu: 🟨⬛⬛🟨⬛\nbodes: 🟩⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"blame"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nkbars: ⬛🟨🟩⬛🟨\nlaich: 🟨🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"blast"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nborid: 🟩⬛⬛⬛🟩\ntrank: ⬛⬛⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"blend"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nghess: ⬛⬛🟩🟩🟩\noculi: ⬛⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"bless"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nindyl: 🟨🟨🟨⬛🟨\nregia: ⬛⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"blind"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nlagen: 🟨⬛⬛⬛🟨\ntubed: ⬛⬛🟨⬛⬛\ncasky: ⬛⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"blink"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncoled: ⬛🟨🟨⬛🟩\ndemob: 🟨⬛⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"blond"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbrowd: 🟩⬛🟩🟩⬛\ncaine: ⬛⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"blown"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nflubs: ⬛🟩🟩🟨🟩\nryked: ⬛⬛⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"blues"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nleafy: 🟨⬛⬛🟩⬛\nbajri: 🟩⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"bluff"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbhalu: 🟩⬛🟩⬛⬛\nnomes: ⬛🟩⬛⬛⬛\ntirma: ⬛⬛🟨⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"board"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nmodal: ⬛🟩⬛🟨⬛\ngnast: ⬛⬛🟩🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"boats"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nnotes: ⬛🟩🟨⬛🟩\nflyby: ⬛🟨⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"bolts"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbliny: 🟩⬛⬛🟨⬛\ndagos: 🟨⬛⬛🟨🟩\n\nWhat must be the target word? Just provide the word.","output":"bonds"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nboded: 🟩🟩⬛🟩⬛\nsnirt: 🟨🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"bones"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nnotum: 🟨🟩⬛🟩⬛\nemirs: ⬛⬛⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"bonus"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ngoose: ⬛🟩🟩🟨⬛\nkitab: 🟨⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"books"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndeota: ⬛⬛🟩🟨⬛\nbends: 🟩⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"boost"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nstoke: ⬛🟨🟩⬛⬛\nbrisk: 🟩⬛⬛⬛⬛\nwomps: ⬛🟩⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"booty"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nborty: 🟩🟩🟩⬛⬛\ncabre: ⬛⬛🟨🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"bored"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntowel: ⬛🟩🟩⬛🟨\nbusto: 🟩⬛🟨⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"bowls"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbayed: 🟩⬛⬛🟩🟩\nadfix: ⬛🟨⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"boxed"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nloxed: ⬛🟩🟩🟩⬛\ndaube: ⬛⬛⬛🟨🟨\nvinal: ⬛⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"boxes"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbanes: 🟩🟨🟨⬛⬛\nstrig: ⬛⬛🟨🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"brain"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nkimbo: 🟨⬛⬛🟨⬛\nloave: ⬛⬛🟩⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"brake"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbemat: 🟩🟨⬛🟨⬛\nruvid: 🟨⬛🟨⬛⬛\ndoura: ⬛⬛⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"brave"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndregs: 🟨🟩🟩⬛⬛\nbaled: 🟩🟨⬛🟨🟩\n\nWhat must be the target word? Just provide the word.","output":"bread"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nshark: ⬛⬛🟨🟨🟩\nmaybe: ⬛🟨⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"break"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncourb: ⬛🟨⬛🟨🟨\nbiter: 🟩⬛⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"broke"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nhuile: ⬛🟩🟩🟩⬛\nduali: 🟨🟩⬛🟩🟨\n\nWhat must be the target word? Just provide the word.","output":"build"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nlubra: 🟨🟩🟨⬛⬛\nwadis: ⬛⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"built"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ngulps: ⬛🟩🟩⬛🟩\nbonks: 🟩⬛⬛⬛🟩\nqualm: ⬛🟩⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"bulbs"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbolts: 🟩⬛🟩⬛🟩\nvault: ⬛⬛🟨🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"bulls"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbeath: 🟩⬛⬛🟨⬛\ndrang: ⬛🟨⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"burnt"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntubar: 🟨🟩🟨⬛🟨\nhomes: ⬛⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"burst"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nupset: 🟨⬛🟩🟩⬛\ngulfs: ⬛🟩⬛⬛🟩\nagrin: ⬛⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"buses"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbeton: 🟩🟨🟩⬛⬛\nswing: 🟨⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"bytes"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npubic: ⬛⬛🟩🟩🟨\nloams: ⬛⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"cabin"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nchugs: 🟩🟨⬛⬛⬛\naeons: 🟨🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"cache"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nacerb: 🟨🟨🟨⬛⬛\nwinks: ⬛⬛⬛🟨🟩\n\nWhat must be the target word? Just provide the word.","output":"cakes"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncopes: 🟩⬛⬛⬛🟩\ndanli: ⬛🟩⬛🟩⬛\nbalks: ⬛🟩🟩⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"calls"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npaled: 🟨🟩⬛⬛⬛\nmungs: 🟨⬛⬛⬛🟩\nchort: 🟩⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"camps"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncaval: 🟩🟩⬛🟩🟩\npards: ⬛🟩⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"canal"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nolena: 🟨⬛🟨🟨🟨\ndices: ⬛⬛🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"canoe"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncarom: 🟩🟩🟩⬛⬛\nnumda: ⬛⬛⬛🟩🟨\n\nWhat must be the target word? Just provide the word.","output":"cards"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncatur: 🟩🟩⬛⬛🟨\ntames: ⬛🟩⬛🟩🟩\n\nWhat must be the target word? Just provide the word.","output":"cares"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncadge: 🟩🟩⬛🟩⬛\ndough: ⬛🟨⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"cargo"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntorcs: 🟨⬛🟩🟨🟩\n\nWhat must be the target word? Just provide the word.","output":"carts"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nscale: 🟨🟨🟨⬛🟨\nwists: ⬛⬛🟩⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"cases"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nmachi: ⬛🟩🟨🟨⬛\ncrare: 🟩⬛🟨⬛⬛\naweto: 🟨⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"catch"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncaput: 🟩🟩⬛🟨⬛\nunder: 🟨⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"cause"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nclash: 🟩⬛🟩🟩⬛\nroyet: ⬛⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"cease"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nraces: ⬛⬛🟨🟨🟩\nsclaw: 🟨🟨🟩⬛⬛\nmusth: ⬛⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"cells"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nchats: 🟩⬛⬛🟩🟩\nobeli: ⬛⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"cents"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbrain: ⬛🟨🟩🟩⬛\nnucha: ⬛⬛🟨🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"chair"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nnohes: ⬛🟨🟨⬛🟩\nlacto: ⬛🟨🟨⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"chaos"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncorbe: 🟩⬛🟨⬛⬛\nmushy: 🟨⬛⬛🟨⬛\ntubas: ⬛⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"charm"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbeats: ⬛⬛🟩🟨⬛\ncravo: 🟩🟨🟩⬛⬛\ngavel: ⬛🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"chart"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nenhat: 🟨⬛🟨🟩⬛\ncants: 🟩🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"cheap"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ngatch: ⬛🟨🟨🟨🟨\nkeach: ⬛🟨🟨🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"cheat"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfilch: ⬛⬛⬛🟩🟨\nhaine: 🟨⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"check"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ngrego: ⬛🟨🟩⬛⬛\ncothe: 🟩⬛⬛🟨🟨\ncunit: 🟩⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"cheer"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncaser: 🟩⬛🟨🟨⬛\nfends: ⬛🟨⬛⬛🟩\nwanes: ⬛⬛⬛🟨🟩\n\nWhat must be the target word? Just provide the word.","output":"chess"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nchaws: 🟩🟩⬛⬛🟨\nbroth: ⬛⬛⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"chest"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfight: 🟨🟨⬛🟨⬛\ntuyer: ⬛⬛⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"chief"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nwilco: ⬛🟨🟨🟨⬛\ncauli: 🟩⬛⬛🟩🟩\n\nWhat must be the target word? Just provide the word.","output":"chili"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nhemes: 🟨⬛⬛⬛🟩\nplier: 🟨⬛🟩⬛⬛\nrucks: ⬛⬛🟨⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"chips"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncopis: 🟩🟨⬛🟩⬛\nbolar: ⬛🟨⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"choir"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nshorl: 🟨🟩🟩⬛⬛\ncires: 🟩⬛⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"chose"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nkinas: ⬛🟩⬛🟩⬛\ngripe: 🟨🟨🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"cigar"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nrites: ⬛🟩🟩🟩⬛\nsocle: ⬛⬛🟨⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"cited"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncoria: 🟩⬛⬛🟩⬛\ntiple: ⬛🟩⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"civic"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndivia: ⬛🟩🟩🟩⬛\nslipt: ⬛🟨🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"civil"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nhemic: ⬛⬛🟨🟩🟨\nvoila: ⬛⬛🟨🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"claim"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsheld: 🟨🟨⬛🟨⬛\npocul: ⬛⬛🟨⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"clash"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncanoe: 🟩🟨🟨⬛🟨\nleans: 🟨🟨🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"clean"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nflear: ⬛🟩🟩🟩🟩\nnucal: ⬛⬛🟨🟩🟨\n\nWhat must be the target word? Just provide the word.","output":"clear"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfreck: ⬛⬛⬛🟩🟩\nclamp: 🟩🟩⬛⬛⬛\nflied: ⬛🟩🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"click"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsmily: ⬛🟨🟩🟨⬛\nknobs: ⬛⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"climb"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nclams: 🟩🟩⬛⬛🟩\nperai: 🟨⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"clips"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nscaul: ⬛🟨⬛⬛🟨\nfiked: ⬛⬛🟨⬛⬛\ncurdy: 🟩⬛⬛⬛⬛\nmanks: ⬛⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"clock"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncorns: 🟩🟨⬛🟩⬛\nfrize: ⬛⬛⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"clone"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntoile: 🟨🟨⬛🟨⬛\nheads: 🟨⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"cloth"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ngauls: ⬛⬛🟩🟨🟩\ngecks: ⬛⬛🟨⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"clubs"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nchufa: 🟩🟨⬛⬛🟨\ngoban: ⬛🟩⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"coach"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncapot: 🟩🟨⬛🟨🟩\nascry: 🟨🟨🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"coast"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nwocas: ⬛🟩🟩🟨⬛\nbilos: ⬛⬛⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"cocoa"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nroved: ⬛🟩⬛🟩🟨\nstech: 🟨⬛🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"codes"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ninsol: 🟨🟨🟨🟨⬛\nclots: 🟩⬛🟨⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"coins"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\njomon: ⬛🟩⬛🟩⬛\ncrash: 🟩🟨⬛⬛⬛\njalor: ⬛⬛🟩🟩🟩\n\nWhat must be the target word? Just provide the word.","output":"color"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbrows: 🟨⬛🟨⬛⬛\ncauli: 🟩⬛⬛⬛⬛\nbichy: 🟨⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"combo"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncosed: 🟩🟩🟨🟩⬛\nmiter: 🟨⬛⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"comes"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nkorec: ⬛🟩⬛⬛🟩\nmixed: 🟨🟨⬛⬛⬛\nangst: ⬛⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"comic"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsprue: 🟨🟨🟩⬛⬛\npicas: 🟨⬛🟨⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"corps"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nryots: ⬛⬛🟨🟩🟩\ncoxed: 🟩🟩⬛⬛⬛\nlathi: ⬛⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"costs"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nhouri: 🟨🟩🟩⬛⬛\ncodas: 🟩🟩⬛⬛⬛\nsynch: ⬛⬛⬛🟩🟩\n\nWhat must be the target word? Just provide the word.","output":"couch"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nvetch: ⬛⬛⬛🟨🟩\nlifer: ⬛⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"cough"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfumed: ⬛🟨⬛⬛🟩\nophic: 🟨⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"could"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncarne: 🟩⬛🟨⬛🟨\nroyet: 🟨🟩⬛🟩⬛\nvisie: 🟨⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"cover"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndatch: ⬛🟨⬛🟩⬛\ncrone: 🟩🟩⬛⬛⬛\nalkin: 🟨⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"crack"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nskart: ⬛⬛🟩🟨🟩\ncrowd: 🟩🟩⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"craft"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nmaces: ⬛🟨🟨⬛🟨\nuparm: ⬛⬛🟩🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"crash"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncraze: 🟩🟩🟩🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"crazy"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncloam: 🟩⬛⬛🟩🟩\nyarth: ⬛🟨🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"cream"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncould: 🟩⬛⬛⬛🟩\nspeir: ⬛⬛🟩⬛🟨\nvario: ⬛⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"creed"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nchuse: 🟩⬛⬛🟩🟨\nscart: 🟨🟨⬛🟨🟩\n\nWhat must be the target word? Just provide the word.","output":"crest"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncaids: 🟩⬛🟩🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"cried"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nirate: 🟨🟩⬛⬛🟩\nermit: 🟨🟩🟨🟨⬛\nsadic: ⬛⬛⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"crime"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\narach: ⬛🟩⬛🟨⬛\npixes: 🟨⬛⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"crops"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nyawed: ⬛⬛🟨⬛🟩\nmacer: ⬛⬛🟨⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"crowd"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nscrub: ⬛🟨🟨🟨⬛\npodgy: ⬛⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"crude"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nautre: ⬛🟨⬛🟨🟨\nclong: 🟩🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"cruel"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfrosh: ⬛🟩⬛🟩🟩\ncater: 🟩⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"crush"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbisso: 🟨🟨⬛⬛⬛\nmutts: ⬛🟩⬛⬛⬛\nsarpo: ⬛⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"cubic"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nscaur: 🟨🟨⬛🟨🟨\nmelis: ⬛🟨⬛⬛🟨\nbreva: ⬛🟨🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"curse"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ngrype: ⬛🟨⬛⬛🟩\ncivet: 🟩⬛🟨🟨⬛\nfilao: ⬛⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"curve"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nstyle: ⬛⬛🟨🟩🟩\nopium: ⬛⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"cycle"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ngaist: ⬛🟩🟩⬛⬛\nluged: 🟨⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"daily"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsourd: ⬛⬛⬛🟩🟨\nsadhe: ⬛🟩🟨⬛⬛\nflyte: ⬛⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"dairy"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncanto: 🟨🟩🟩⬛⬛\nadrue: 🟨🟨⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"dance"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndearn: 🟩🟨🟨⬛⬛\ndistr: 🟩⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"dated"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsabed: 🟨🟩⬛🟩🟨\nthein: 🟨⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"dates"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndebar: 🟩🟩⬛🟨⬛\nsplet: 🟨⬛🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"deals"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndebut: 🟩🟩⬛⬛🟩\nlanch: 🟨🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"dealt"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndirts: 🟩🟨⬛🟨⬛\nbirse: 🟨🟨⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"debit"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntried: 🟨⬛⬛🟨🟨\nbends: 🟨🟩⬛🟨🟩\n\nWhat must be the target word? Just provide the word.","output":"debts"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndagos: 🟩⬛🟨⬛⬛\nblate: 🟨⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"debug"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nscrub: ⬛⬛⬛🟩🟨\ndealt: 🟩🟩⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"debut"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntacks: ⬛⬛🟩🟩🟩\nsawed: 🟨⬛⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"decks"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncrome: 🟨🟨🟨⬛🟨\njalop: ⬛⬛⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"decor"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nchide: ⬛⬛⬛🟩🟨\ndaily: 🟩⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"deeds"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntoday: ⬛⬛🟨🟩🟩\nteary: ⬛🟩🟨⬛🟩\nriled: ⬛⬛🟩🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"delay"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsomne: 🟨⬛⬛🟨🟩\nupdry: ⬛⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"dense"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntupek: 🟨⬛🟩🟨⬛\nfound: ⬛🟨⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"depot"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npunts: 🟨⬛⬛🟩⬛\ngourd: ⬛⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"depth"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nmawks: ⬛⬛⬛🟩🟩\nached: ⬛⬛⬛🟨🟨\ntherm: ⬛⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"desks"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nvivda: ⬛🟩⬛🟨🟨\njoyed: ⬛⬛🟨⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"diary"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntepid: 🟨🟨⬛🟨🟨\nmairs: ⬛⬛🟨⬛🟩\nbeati: ⬛🟨⬛🟩🟨\n\nWhat must be the target word? Just provide the word.","output":"diets"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndenim: 🟩⬛⬛🟩⬛\ntarge: 🟨⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"digit"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nstrid: ⬛🟨🟩🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"dirty"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncovid: 🟨🟨⬛🟨🟨\nrhyta: ⬛⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"disco"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nscoad: 🟨🟨⬛⬛🟨\nsides: 🟨🟩🟨⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"discs"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbosks: ⬛⬛🟩🟩🟩\nrisky: ⬛🟩🟩🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"disks"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nedits: ⬛🟨🟩⬛⬛\ngoner: 🟨🟩🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"doing"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nduals: 🟩⬛⬛🟩🟩\ntibey: ⬛⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"dolls"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nwordy: ⬛🟩🟨🟨⬛\nventa: ⬛⬛🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"donor"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndorms: 🟩🟩🟨⬛🟩\nsnipe: 🟨⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"doors"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\neidos: 🟨⬛🟨🟨🟩\nwasel: ⬛⬛🟩🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"doses"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndhobi: 🟩⬛🟨🟩⬛\ncurby: ⬛🟨⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"doubt"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncloze: ⬛⬛🟨🟨🟨\noinks: 🟨⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"dozen"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndenty: 🟩⬛⬛🟨⬛\nmiaou: ⬛⬛🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"draft"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npored: ⬛⬛🟨⬛🟨\npurga: ⬛⬛🟨⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"drama"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncydon: ⬛⬛🟨⬛🟩\ntrews: ⬛🟩⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"drawn"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsawer: 🟨🟨🟨⬛🟨\ndight: 🟩⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"draws"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndrail: 🟩🟩⬛⬛⬛\nraxes: 🟨⬛⬛🟨🟩\nbetso: ⬛🟨⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"dress"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nmined: ⬛🟨⬛🟩🟩\ndivel: 🟩🟨⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"dried"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nrifty: 🟨🟨🟨🟨⬛\ntrode: 🟨🟩⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"drift"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npriss: ⬛🟩🟩⬛⬛\ndwalm: 🟩⬛⬛🟩⬛\ncavel: ⬛⬛⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"drill"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbrins: ⬛🟩🟩🟩⬛\ndyker: 🟩⬛🟨⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"drink"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nscind: ⬛⬛🟩⬛🟨\nvagus: 🟨⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"drive"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nornis: 🟨🟩⬛⬛🟩\ndoest: 🟩🟨⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"drops"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncoked: ⬛🟨⬛🟨🟨\ntriac: ⬛🟩⬛⬛⬛\nvocat: 🟨🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"drove"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndouse: 🟩⬛🟩🟨⬛\ngnide: 🟨⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"drugs"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nulnad: 🟨⬛🟨⬛🟨\nducks: 🟩🟨⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"drunk"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\norbed: ⬛🟩⬛🟩🟨\ncomby: ⬛⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"dryer"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nundog: 🟨⬛🟨⬛⬛\nlurks: ⬛🟩⬛🟩🟩\nslice: 🟨⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"ducks"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nswing: ⬛⬛🟩🟩🟩\ndolce: 🟩⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"dying"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npangi: ⬛🟩⬛🟨⬛\neigne: 🟩⬛🟩⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"eager"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nestop: 🟩⬛🟩⬛⬛\ncanel: ⬛🟩🟨🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"eaten"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nidest: ⬛🟩🟨🟨⬛\ntaper: ⬛⬛⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"edges"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\njives: ⬛🟨⬛🟨🟩\negrid: 🟩⬛⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"edits"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\neidos: 🟩🟩⬛⬛⬛\nshapy: ⬛🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"eight"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\neably: 🟩⬛🟩🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"elbow"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nflyte: ⬛🟩⬛🟨🟨\nclone: 🟨🟩⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"elect"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfitly: ⬛🟨🟨🟨⬛\nether: 🟩🟨⬛🟨⬛\nahmet: ⬛⬛⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"elite"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nramps: ⬛⬛🟨🟨⬛\nturvy: 🟨⬛⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"empty"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nemyds: 🟩⬛⬛🟨⬛\nhsien: ⬛⬛⬛🟩🟨\nwhorl: ⬛⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"ended"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nhomey: ⬛⬛🟨🟨🟩\nplang: ⬛⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"enemy"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nknosp: ⬛🟩🟨⬛⬛\nfezzy: ⬛🟨⬛⬛🟩\njells: 🟨🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"enjoy"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbited: ⬛⬛🟩🟩⬛\nknarl: ⬛🟩⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"enter"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nonery: ⬛🟩🟨🟩🟩\n\nWhat must be the target word? Just provide the word.","output":"entry"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\naruke: 🟨⬛🟩⬛🟨\nketal: ⬛🟨⬛🟩🟩\n\nWhat must be the target word? Just provide the word.","output":"equal"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbarie: ⬛⬛⬛🟩🟨\nsneap: ⬛⬛🟨⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"equip"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfaros: ⬛⬛🟩🟩⬛\nbents: ⬛🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"error"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nashot: 🟨🟩⬛⬛⬛\nresid: ⬛🟨🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"essay"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\numbos: 🟨⬛⬛🟩🟩\nnecks: ⬛🟨⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"euros"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\neclat: 🟩⬛⬛⬛🟩\nsnurl: ⬛🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"event"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nuvate: ⬛🟩⬛⬛🟨\nmachy: ⬛⬛⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"every"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nmixen: ⬛⬛🟨🟨⬛\nclead: 🟨⬛🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"exact"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\negads: 🟩⬛🟩⬛🟩\nwoman: ⬛⬛🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"exams"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\neches: 🟩🟨⬛🟩⬛\nslorp: ⬛🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"excel"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntaxes: 🟨⬛🟨🟨🟨\nspurn: 🟨⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"exist"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nraxes: 🟨🟨🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"extra"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncadge: 🟨🟩🟨⬛🟨\nfolia: 🟩⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"faced"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsceat: 🟨🟨🟨🟨⬛\nfovea: 🟩⬛⬛🟩🟨\n\nWhat must be the target word? Just provide the word.","output":"faces"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nceras: 🟨⬛⬛🟨🟩\nocote: ⬛🟨⬛🟩⬛\ntrifa: 🟨⬛⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"facts"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfaits: 🟩🟩🟩⬛🟩\ngrint: ⬛⬛🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"fails"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nprion: ⬛🟨🟩⬛⬛\nfemur: 🟩⬛⬛⬛🟨\nlesiy: ⬛⬛⬛🟨🟩\n\nWhat must be the target word? Just provide the word.","output":"fairy"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncares: ⬛🟩🟩🟩🟩\nfrist: 🟩🟨⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"fares"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfinds: 🟩⬛⬛⬛🟩\nsimba: 🟨⬛🟨⬛🟨\npadis: ⬛🟩⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"farms"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfchar: 🟩⬛⬛🟩⬛\nmetry: ⬛⬛🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"fatal"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfront: 🟩⬛⬛⬛🟨\nleany: ⬛⬛🟨⬛🟩\nyechs: 🟨⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"fatty"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfuels: 🟩🟨⬛🟩⬛\nmolts: ⬛⬛🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"fault"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nalgor: 🟨⬛⬛🟩🟩\nfilet: 🟩⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"favor"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfavel: 🟩🟩⬛🟩⬛\nunhex: ⬛⬛⬛🟩🟨\norals: ⬛⬛🟨⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"faxes"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nscurf: 🟨⬛⬛🟩🟨\nhalte: ⬛🟨⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"fears"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nferie: 🟩🟩⬛⬛🟨\nscend: 🟨⬛🟩⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"feeds"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsleek: 🟨🟨🟩🟨⬛\nfluer: 🟩🟨⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"feels"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nrefed: ⬛🟩🟨🟨⬛\nyonic: ⬛⬛🟩⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"fence"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndurry: ⬛⬛🟩🟩🟩\nfuchi: 🟩⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"ferry"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfrond: 🟩🟨⬛⬛⬛\nsekar: ⬛🟩⬛⬛🟩\nheave: ⬛🟩⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"fever"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nwords: 🟨⬛🟨⬛⬛\nchafe: ⬛⬛⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"fewer"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfuchi: 🟩⬛⬛🟨🟨\nalike: ⬛⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"fifth"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbafta: ⬛⬛🟩🟩⬛\nflavo: 🟩⬛⬛⬛⬛\nmurky: ⬛⬛⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"fifty"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfices: 🟩🟩⬛⬛⬛\ntragi: 🟨⬛⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"fight"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfixed: 🟩🟩⬛🟩🟩\ntrawl: ⬛⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"filed"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfanum: 🟩⬛⬛⬛🟨\nraves: ⬛⬛⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"films"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfrays: 🟩⬛🟨⬛⬛\nfilth: 🟩🟩🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"final"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfeuds: 🟩⬛⬛🟩🟩\nripal: ⬛🟩⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"finds"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nlinje: ⬛🟩🟩⬛🟨\nfreir: 🟩⬛🟨🟨⬛\nspiel: 🟨⬛🟨🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"fines"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndinar: 🟨🟩⬛⬛🟨\nunfew: ⬛⬛🟨🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"fired"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ngerms: ⬛🟨🟩⬛🟩\nkofta: ⬛⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"fires"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\naroma: ⬛🟨⬛🟩⬛\nderiv: ⬛⬛🟩🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"firms"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nstrig: 🟨🟨🟩🟨⬛\nenhat: ⬛⬛⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"first"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndonas: 🟨⬛⬛⬛⬛\nvexil: ⬛🟨🟩🟨⬛\nfated: 🟩⬛⬛🟩🟩\n\nWhat must be the target word? Just provide the word.","output":"fixed"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfinew: 🟩🟩⬛🟩⬛\nexody: 🟨🟨⬛⬛⬛\nrutin: ⬛⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"fixes"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncalfs: ⬛🟨🟨🟨🟩\ngleba: 🟨🟩⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"flags"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nflump: 🟩🟩⬛🟩⬛\nureal: ⬛⬛🟨🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"flame"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nhalos: 🟨🟨🟨⬛🟨\ndefix: ⬛⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"flash"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nalhet: 🟨🟩⬛⬛🟨\ngifts: ⬛⬛🟨🟩🟩\n\nWhat must be the target word? Just provide the word.","output":"flats"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfeist: 🟩🟨⬛🟩⬛\nflews: 🟩🟩🟩⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"flesh"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nskeif: 🟨⬛🟨🟨🟨\npules: ⬛⬛🟨🟩🟩\n\nWhat must be the target word? Just provide the word.","output":"flies"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nwokas: ⬛🟨⬛🟩⬛\nfient: 🟩⬛⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"float"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfolie: 🟩🟨🟨⬛⬛\nprunt: ⬛🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"floor"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nslock: ⬛🟩🟩⬛⬛\nrungs: 🟨🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"flour"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nblens: ⬛🟩⬛⬛🟩\nflaws: 🟩🟩⬛🟩🟩\n\nWhat must be the target word? Just provide the word.","output":"flows"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfolds: 🟩⬛🟨🟨⬛\nagues: ⬛⬛🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"fluid"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfeats: 🟩⬛⬛⬛🟨\nhelio: 🟨⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"flush"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ngilty: ⬛⬛🟨🟩⬛\nfoods: 🟩⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"flute"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfaery: 🟩⬛🟨🟨🟨\nblayk: ⬛🟩⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"flyer"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nmodal: ⬛🟩⬛🟩🟩\nfeyer: 🟩⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"focal"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nchous: 🟨⬛🟨🟩🟩\nfilea: 🟩⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"focus"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfonts: 🟩🟩⬛⬛🟩\nkunai: 🟨⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"folks"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfolds: 🟩🟩⬛⬛🟩\ncinel: ⬛⬛🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"fonts"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfrase: 🟩⬛⬛🟨⬛\ngloms: ⬛⬛🟩⬛🟩\nratio: ⬛⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"foods"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nmerch: ⬛🟨🟩🟩⬛\nsargo: ⬛⬛🟩⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"force"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nogres: 🟨🟨🟩🟨⬛\ngaine: 🟨⬛⬛⬛🟩\nfrust: 🟩🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"forge"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfraik: 🟩🟨⬛⬛⬛\nnumis: ⬛⬛🟨⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"forms"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nmorth: ⬛🟩🟩🟩⬛\nbelay: ⬛⬛⬛⬛🟩\nfarde: 🟩⬛🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"forty"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nlocus: ⬛🟩⬛🟨⬛\ntharf: ⬛⬛⬛⬛🟨\ndougl: 🟨🟩🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"found"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nchaum: ⬛⬛🟩🟩⬛\numped: 🟨⬛⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"fraud"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndregs: ⬛🟩🟩⬛🟨\ncohue: ⬛⬛🟨⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"fresh"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ngolds: 🟨🟨⬛⬛🟩\nflirt: 🟩⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"frogs"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntrifa: 🟨🟩⬛🟨⬛\nhanif: ⬛⬛🟨⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"front"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfeist: 🟩⬛🟨⬛🟩\nlairs: ⬛⬛🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"fruit"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nflots: 🟩🟨⬛⬛🟩\ngrubs: ⬛⬛🟨⬛🟩\npilmy: ⬛⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"fuels"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfplot: 🟩⬛🟩⬛⬛\nsurah: ⬛🟩⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"fully"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfuels: 🟩🟩⬛⬛🟩\nmoped: ⬛⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"funds"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nganef: ⬛⬛🟩⬛🟨\ngyrus: ⬛🟨⬛🟨⬛\ngudok: ⬛🟩⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"funky"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncundy: ⬛🟩🟩⬛🟩\nflick: 🟩⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"funny"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nupfly: 🟨⬛🟨⬛🟩\nbrugh: ⬛⬛🟨⬛⬛\ndozer: ⬛⬛🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"fuzzy"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nelong: ⬛⬛⬛🟩🟨\ngride: 🟩⬛🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"gains"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nnumis: ⬛⬛🟩⬛🟩\nkogai: ⬛⬛🟨🟨⬛\nalife: 🟨⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"games"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbegad: ⬛🟨🟨🟨⬛\nwisen: ⬛⬛🟩🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"gases"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndouce: ⬛⬛🟩⬛🟩\ngadso: 🟩🟩⬛⬛⬛\nruche: ⬛🟨⬛⬛🟩\ntrigo: ⬛⬛⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"gauge"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nrenes: ⬛🟩🟩🟩🟩\ngluts: 🟩⬛⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"genes"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsnirt: ⬛🟨⬛🟩⬛\nclame: ⬛⬛⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"genre"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nthung: 🟨🟩⬛⬛🟨\nosmin: 🟨🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"ghost"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nhints: ⬛🟩🟨🟨⬛\nclung: ⬛⬛⬛🟩🟨\n\nWhat must be the target word? Just provide the word.","output":"giant"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsling: 🟨⬛🟨⬛🟨\nflows: 🟨⬛⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"gifts"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncurly: ⬛⬛🟩🟩⬛\nbingo: ⬛🟩⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"girls"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndoves: ⬛⬛🟩🟩🟩\nogive: ⬛🟨🟨🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"gives"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npoise: ⬛🟨⬛🟩⬛\ntarge: ⬛⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"gloss"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nhovel: ⬛🟨🟨🟨🟨\nglows: 🟩🟩🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"glove"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ngimpy: 🟩⬛🟨⬛⬛\nlonga: ⬛🟨🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"gnome"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntlaco: ⬛🟨🟩⬛🟨\nlaugh: 🟨🟨⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"goals"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbogle: ⬛🟩🟨⬛⬛\naloid: ⬛⬛🟩⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"goods"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ngaine: 🟩🟨⬛⬛🟩\nogled: ⬛🟨⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"grade"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ngrind: 🟩🟩🟨🟨⬛\nmopey: ⬛⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"grain"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nmarts: 🟨🟨🟨⬛🟩\ngodly: 🟩⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"grams"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nleany: ⬛🟨🟩⬛⬛\npiner: 🟨⬛⬛🟨🟨\nvogue: ⬛⬛🟨⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"grape"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncarpi: ⬛🟨🟨🟩⬛\nchort: ⬛🟨⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"graph"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nvarus: ⬛🟨🟨⬛🟨\nnagor: ⬛🟨🟨⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"grasp"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ngoave: 🟩⬛🟩🟩🟩\nalmes: 🟨⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"grave"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nloges: ⬛⬛🟨🟩⬛\ngifts: 🟩🟨🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"grief"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nspeil: ⬛⬛⬛🟨🟩\nunget: ⬛⬛🟨⬛⬛\nextra: ⬛⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"grill"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfemur: ⬛⬛⬛🟩🟨\nspacy: ⬛🟨⬛⬛⬛\ngenic: 🟩⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"group"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntweag: ⬛🟨⬛⬛🟨\nhaine: ⬛⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"grown"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ngawky: 🟩⬛🟨⬛⬛\nsupra: 🟨⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"grows"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsurds: ⬛🟩🟨🟨⬛\nshare: ⬛⬛🟩🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"guard"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npulse: ⬛🟩⬛🟩🟨\ndinge: ⬛⬛⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"guess"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbalut: ⬛⬛🟨🟨🟩\nkreng: ⬛⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"guilt"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nhutia: 🟩⬛🟨🟩🟨\nlande: ⬛🟩⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"habit"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nstack: 🟨⬛🟨🟨🟨\nabush: 🟨⬛⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"hacks"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nyears: 🟨⬛🟨🟩⬛\nriche: 🟨🟨⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"hairy"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nwhart: ⬛🟨🟨🟨⬛\nmarse: ⬛🟩🟩🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"harsh"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbehap: ⬛🟩🟨🟨⬛\nchads: ⬛🟨🟩🟩🟩\n\nWhat must be the target word? Just provide the word.","output":"heads"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nhorla: 🟩⬛🟨⬛🟨\npiked: ⬛⬛⬛🟨🟩\n\nWhat must be the target word? Just provide the word.","output":"heard"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbrave: ⬛🟨🟩⬛🟨\nichor: ⬛⬛🟨⬛🟨\nchout: ⬛🟨⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"heart"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nspave: ⬛⬛🟩🟩🟨\n\nWhat must be the target word? Just provide the word.","output":"heavy"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsegue: ⬛🟩🟨⬛🟩\ndukhn: 🟨⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"hedge"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncheek: ⬛🟨🟩🟨⬛\ncoils: ⬛⬛⬛🟩🟩\n\nWhat must be the target word? Just provide the word.","output":"heels"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nhoggy: 🟩🟨⬛⬛⬛\numble: ⬛⬛⬛🟩🟨\n\nWhat must be the target word? Just provide the word.","output":"hello"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npolis: 🟨⬛🟩⬛🟩\nwhipt: ⬛🟨⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"helps"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntorch: ⬛⬛⬛🟩🟨\nstoun: ⬛⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"hence"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nprobe: ⬛🟨⬛🟩🟨\nmachi: ⬛⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"herbs"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nshilf: 🟨🟨🟨⬛⬛\ndunam: ⬛⬛🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"hints"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nhelix: 🟩🟨⬛🟨⬛\nserum: ⬛🟨🟩⬛⬛\nmired: ⬛🟩🟩🟩🟩\n\nWhat must be the target word? Just provide the word.","output":"hired"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntibby: ⬛⬛🟩🟩🟩\nshorn: ⬛🟨🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"hobby"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nhamus: 🟩⬛⬛⬛🟩\ncatel: ⬛⬛⬛🟩🟨\n\nWhat must be the target word? Just provide the word.","output":"holes"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npepos: ⬛🟨⬛🟨🟩\nhokes: 🟩🟩⬛🟩🟩\nmache: 🟨⬛⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"homes"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nshedu: ⬛🟨🟨🟨⬛\nmolvi: ⬛🟩⬛⬛⬛\npaxes: 🟨⬛⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"hoped"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nretch: ⬛🟨⬛⬛🟨\nstowp: 🟨⬛🟨⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"hopes"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\narase: ⬛🟨⬛🟩🟩\ngushy: ⬛⬛🟨🟨⬛\ndoaty: ⬛🟩⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"horse"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nposts: ⬛🟩🟩🟩🟩\nhexis: 🟩⬛⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"hosts"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nshaly: ⬛🟨⬛🟨⬛\ntenia: 🟨🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"hotel"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nshisn: ⬛🟨⬛⬛🟩\nfames: ⬛🟨🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"human"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nameer: ⬛🟨⬛⬛🟩\ngushy: ⬛🟩⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"humor"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nhumet: 🟩🟩⬛⬛⬛\nscrim: ⬛⬛🟩⬛⬛\nklieg: ⬛⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"hurry"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsowan: 🟨🟨⬛⬛🟨\noctal: 🟨🟩⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"icons"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndiety: 🟨🟨🟩⬛⬛\npetal: ⬛🟨⬛🟩🟩\n\nWhat must be the target word? Just provide the word.","output":"ideal"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ninstr: 🟩⬛🟨⬛⬛\nwared: ⬛🟨⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"ideas"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nrages: ⬛🟨🟨🟨⬛\nwoman: ⬛⬛🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"image"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nempty: ⬛🟩🟩⬛🟩\nabrim: ⬛⬛⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"imply"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfiled: ⬛🟨⬛🟩🟨\naxing: ⬛🟨🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"index"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nunarm: 🟨🟩⬛⬛⬛\npalki: 🟨⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"input"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nenlay: 🟨🟩🟨⬛⬛\ndaunt: ⬛⬛⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"intel"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ngrint: ⬛🟨🟨🟨🟨\ncoxes: ⬛⬛⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"inter"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nicasm: 🟩⬛⬛🟨⬛\nglade: ⬛🟨⬛⬛🟨\nthyme: ⬛⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"isles"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nessay: 🟨🟩🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"issue"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nstain: 🟨🟩⬛🟨⬛\nalbum: ⬛⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"items"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\njehad: 🟩🟩⬛⬛⬛\ndoily: ⬛⬛⬛🟩🟩\n\nWhat must be the target word? Just provide the word.","output":"jelly"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nswonk: 🟨⬛🟨🟩⬛\njumby: 🟩⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"joins"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npolit: ⬛🟩⬛🟨🟩\nnaiad: 🟨⬛🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"joint"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\njavas: 🟩⬛⬛⬛🟩\nnovel: ⬛🟩⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"jokes"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbonce: ⬛⬛⬛🟩🟩\nguaco: ⬛🟩⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"juice"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\njibba: 🟩🟨⬛⬛⬛\nyarth: 🟨⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"juicy"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npetre: 🟨🟩⬛⬛🟨\nbonks: ⬛⬛⬛🟨🟩\nclefs: ⬛⬛🟩⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"keeps"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nmikra: ⬛🟩🟨⬛⬛\ncloth: 🟨⬛⬛⬛⬛\nsnead: 🟨⬛⬛⬛⬛\nleapt: ⬛⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"kicks"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsoler: 🟨⬛🟩⬛⬛\nskelm: 🟨🟨⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"kills"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nglide: ⬛⬛🟨🟩⬛\nrubes: ⬛⬛⬛⬛🟩\ncloke: ⬛⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"kinds"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nkites: 🟩⬛⬛🟩🟩\nusant: ⬛🟨⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"knees"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nniche: 🟨🟨⬛⬛🟩\ncraft: ⬛⬛⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"knife"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ngecko: ⬛⬛🟨🟨🟨\nthund: ⬛⬛⬛🟨⬛\nbetis: ⬛⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"knock"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nmawky: ⬛⬛🟨🟨⬛\nkhans: 🟩⬛⬛🟨⬛\nryked: ⬛⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"known"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nswore: 🟨🟨🟩⬛⬛\nnikau: 🟨⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"knows"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nrales: ⬛🟩🟨🟩⬛\nbawke: 🟨🟩⬛⬛🟨\nstrop: ⬛⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"label"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nlored: 🟩🟨🟨⬛⬛\nutile: ⬛⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"labor"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nlarks: 🟩🟩⬛🟩🟩\nclaut: 🟨🟨🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"lacks"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nklosh: 🟨🟨⬛🟨⬛\nskate: 🟨🟨🟨⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"lakes"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndomal: ⬛⬛🟩🟨🟨\nstaph: 🟨⬛🟨🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"lamps"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nlased: 🟩🟩🟨⬛🟨\nspink: 🟨⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"lands"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nliner: 🟩⬛🟩🟩⬛\ncunea: ⬛⬛🟩🟩🟨\n\nWhat must be the target word? Just provide the word.","output":"lanes"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nladed: 🟩🟩⬛🟨⬛\negads: 🟨🟨🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"large"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nlyart: 🟩⬛🟨🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"later"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nquags: ⬛🟨🟨🟩⬛\nsilky: ⬛⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"laugh"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nogler: ⬛⬛🟨🟩🟩\ndashy: ⬛🟩⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"layer"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ngleds: ⬛🟨🟨🟩🟩\nligas: 🟩⬛⬛🟨🟩\n\nWhat must be the target word? Just provide the word.","output":"leads"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nlyery: 🟩⬛🟨🟩⬛\nanomy: 🟨🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"learn"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nleafs: 🟩🟩🟩⬛🟨\nremue: ⬛🟩⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"lease"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nterap: 🟨🟩⬛🟨⬛\nshaly: 🟨⬛🟩🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"least"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nloose: 🟩⬛⬛⬛🟩\nprase: ⬛⬛🟩⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"leave"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nargol: 🟨⬛🟩⬛🟩\nrefit: ⬛🟩⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"legal"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\naweel: ⬛⬛🟨🟩🟩\nlayer: 🟩⬛⬛🟩⬛\nvaire: 🟨⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"level"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nflung: 🟨🟨⬛⬛⬛\nkaifs: ⬛⬛🟨🟨🟩\n\nWhat must be the target word? Just provide the word.","output":"lifts"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nackey: ⬛⬛🟩🟩⬛\nlured: 🟩⬛⬛🟩🟩\n\nWhat must be the target word? Just provide the word.","output":"liked"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ngibes: ⬛🟩⬛🟩🟩\nsilty: 🟨🟩🟨⬛⬛\nkhats: 🟨⬛⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"likes"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ngreit: ⬛⬛⬛🟩🟩\nbilby: ⬛🟩🟨⬛⬛\nchria: ⬛⬛⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"limit"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nrabid: ⬛⬛⬛🟨🟩\nglint: ⬛🟨🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"lined"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nligne: 🟩🟩⬛🟨🟨\nblues: ⬛🟨⬛🟩🟩\n\nWhat must be the target word? Just provide the word.","output":"lines"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nleans: 🟩⬛⬛🟨🟩\nbaulk: ⬛⬛⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"links"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nwhsle: ⬛⬛🟩🟨⬛\ndatos: ⬛⬛🟨⬛🟩\nalums: ⬛🟨⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"lists"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nligne: 🟩🟩⬛⬛🟨\ndroyl: 🟨⬛⬛⬛🟨\ndoven: 🟨⬛🟩🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"lived"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nviers: 🟨🟩🟨🟨⬛\nisoln: 🟨⬛⬛🟨⬛\nlinks: 🟩🟩⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"liver"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nliars: 🟩🟩⬛⬛🟩\nvales: 🟨⬛🟨🟩🟩\n\nWhat must be the target word? Just provide the word.","output":"lives"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\noxids: 🟨⬛⬛🟩🟩\naxile: 🟨⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"loads"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nloamy: 🟩🟩🟩⬛⬛\nbanus: ⬛🟨🟨⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"loans"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsober: ⬛🟩🟩⬛⬛\nenrol: ⬛⬛⬛🟨🟨\nwilds: ⬛⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"lobby"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsural: ⬛⬛⬛🟩🟩\nconer: 🟨🟩⬛⬛⬛\nshilf: ⬛⬛⬛🟨⬛\njelib: ⬛⬛🟨⬛⬛\nmoved: ⬛🟩⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"local"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nlurks: 🟩⬛⬛🟩🟩\ndhoti: ⬛⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"locks"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nclout: 🟨🟨🟨⬛⬛\nargol: ⬛⬛🟩🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"logic"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ngleen: 🟨🟨⬛⬛🟩\nphoca: ⬛⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"login"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ngolds: ⬛🟩🟨⬛🟩\nkusti: 🟨⬛🟨⬛⬛\nstech: 🟨⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"looks"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nmoost: ⬛🟩🟩🟩⬛\nlimps: 🟩⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"loose"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nlaked: 🟩⬛⬛🟩⬛\nmisgo: ⬛⬛🟩⬛🟨\npians: ⬛⬛⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"loses"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nhover: ⬛🟩🟩🟩⬛\ndumka: 🟨⬛⬛⬛⬛\nlochs: 🟩🟩⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"loved"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nvrouw: 🟨⬛🟨⬛⬛\nshied: 🟨⬛⬛🟩⬛\nloges: 🟩🟩⬛🟩🟩\n\nWhat must be the target word? Just provide the word.","output":"loves"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nlungy: 🟩⬛⬛⬛🟨\nshope: ⬛⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"loyal"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nrunch: 🟨🟩🟩⬛⬛\narmit: 🟨🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"lunar"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nthulr: ⬛🟨🟨🟨⬛\nnevus: 🟨⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"lunch"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nboogy: ⬛⬛⬛🟨🟨\nlinty: 🟩🟨🟨⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"lying"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncarne: 🟨⬛🟩⬛⬛\nsouls: ⬛⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"lyric"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfator: ⬛🟩⬛🟨🟨\nmeshy: 🟩⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"macro"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsugis: ⬛⬛🟩🟩⬛\ngermy: 🟨⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"magic"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsalvy: 🟨🟩🟨⬛⬛\nmirza: 🟩🟨⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"mails"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nhacek: ⬛🟩⬛🟩🟨\nmiser: 🟩⬛🟨🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"makes"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nmuras: 🟩⬛⬛🟨🟩\ntilde: ⬛⬛🟩⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"males"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nmadly: 🟩🟩⬛🟩⬛\nculti: ⬛⬛🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"malls"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nmanky: 🟩🟩🟩⬛⬛\nrabic: 🟨🟩⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"manor"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nanime: 🟨⬛⬛🟨🟩\nrumps: ⬛⬛🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"maple"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nmirid: 🟩⬛🟩⬛⬛\ncangy: ⬛🟩⬛⬛🟩\nkearn: ⬛⬛🟨🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"marry"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nmilky: 🟩⬛⬛🟩⬛\noncer: ⬛⬛⬛⬛⬛\ndobra: ⬛⬛⬛⬛🟨\ncosen: ⬛⬛🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"masks"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npathy: ⬛🟩🟩🟨⬛\nplums: ⬛⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"match"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nmahoe: 🟩🟩⬛⬛🟩\nbowel: 🟨⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"maybe"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nwhams: ⬛⬛🟩🟨🟩\nwield: ⬛⬛🟨🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"meals"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nenhat: 🟨🟨⬛🟨🟩\nmusky: 🟩⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"meant"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nimply: ⬛🟨⬛🟨⬛\nyaird: ⬛🟨⬛⬛🟨\nobmit: ⬛⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"medal"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nheeds: ⬛🟩🟩⬛🟩\ntemps: 🟨🟩🟨⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"meets"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nmucor: 🟩🟨⬛⬛⬛\nbeany: ⬛🟩⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"menus"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ngease: 🟨🟩⬛⬛🟩\nviler: ⬛⬛⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"merge"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nserta: ⬛🟩🟩🟨⬛\nwomps: ⬛⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"merit"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbotel: ⬛⬛🟩🟨🟩\nmates: 🟩🟨🟩🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"metal"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nrotes: 🟨⬛🟩🟩⬛\nmecon: 🟩🟩⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"meter"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npoter: ⬛🟨🟩🟨🟨\nrungs: 🟨⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"metro"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nmahoe: 🟩⬛🟨⬛⬛\ngybed: 🟨⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"might"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndunes: 🟨⬛🟩⬛🟩\naumil: ⬛⬛🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"minds"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nburin: ⬛🟨⬛🟨🟨\nhones: ⬛⬛🟩⬛🟩\ndigue: ⬛🟩⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"minus"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndisme: 🟨🟩⬛🟨🟨\nminge: 🟩🟩⬛⬛🟨\nfrags: ⬛⬛⬛⬛⬛\nzymes: ⬛⬛🟨🟩⬛\nmikra: 🟩🟩⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"mixed"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nislet: 🟨⬛⬛🟩⬛\ncoxal: ⬛⬛🟩⬛⬛\nlimen: ⬛🟩🟨🟩⬛\nenarm: 🟨⬛⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"mixer"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntwixt: ⬛⬛🟨🟨⬛\ntunes: ⬛⬛⬛🟩🟩\nnexum: ⬛🟨🟩⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"mixes"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nmebos: 🟩🟨⬛🟨⬛\ndroil: 🟨⬛🟨⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"model"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nramed: ⬛⬛🟨🟩🟨\ntolan: ⬛🟩⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"modes"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nmonks: 🟩🟩🟩⬛⬛\nbarse: ⬛⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"money"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsenam: ⬛⬛🟩⬛🟨\ndesto: ⬛⬛⬛🟩🟨\n\nWhat must be the target word? Just provide the word.","output":"month"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfuran: ⬛⬛🟩🟩⬛\nlumps: 🟨⬛🟨⬛⬛\nkorin: ⬛🟩🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"moral"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nmiler: 🟩⬛🟨🟩⬛\nsudor: ⬛⬛⬛🟨⬛\nwhams: ⬛⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"motel"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nextol: ⬛⬛🟩🟩⬛\nuparm: ⬛⬛⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"motor"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nlorum: ⬛🟩⬛🟨🟨\ntharf: 🟨🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"mouth"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nmolvi: 🟩🟩⬛🟨⬛\nwears: ⬛🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"moved"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\novals: 🟨🟨⬛⬛🟩\nchaum: ⬛⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"moves"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\naimed: ⬛🟨🟨🟨⬛\nbewit: ⬛🟨⬛🟩⬛\nvates: 🟨⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"movie"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nmsink: 🟩⬛🟨⬛⬛\ngolet: ⬛⬛🟩⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"multi"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncohue: 🟨⬛⬛🟨⬛\nmends: 🟩⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"music"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nmatie: 🟩⬛🟩⬛⬛\nwiney: ⬛⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"myths"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nranks: ⬛🟩🟨⬛🟩\nlucid: 🟨⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"nails"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nhendy: ⬛🟨🟨🟨⬛\ndumps: 🟨⬛🟩⬛⬛\nslued: ⬛⬛⬛🟩🟩\n\nWhat must be the target word? Just provide the word.","output":"named"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsonic: 🟨⬛🟨⬛⬛\ntrady: 🟨⬛🟨⬛🟩\ntakin: 🟨🟩⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"nasty"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nidems: ⬛🟨🟩⬛🟩\nnorms: 🟩⬛⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"needs"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nnevat: 🟩🟩🟨⬛⬛\npilmy: ⬛⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"nerve"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncavel: ⬛⬛🟩🟩⬛\nadman: ⬛⬛⬛⬛🟨\nevils: 🟨🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"never"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nkesar: ⬛🟩⬛⬛🟩\nvingt: ⬛⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"newer"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nrowty: ⬛⬛🟩⬛🟩\nnabes: 🟩⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"newly"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntachi: ⬛⬛🟩🟩🟨\ntying: ⬛⬛🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"niche"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nidgah: 🟨⬛🟩⬛🟨\nnitch: 🟩🟩🟨⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"night"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nvoila: ⬛⬛🟨⬛🟩\nbrujo: ⬛⬛⬛🟩⬛\noiler: ⬛🟩⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"ninja"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nwanty: ⬛⬛🟩🟩⬛\nwhilk: ⬛🟨🟨⬛⬛\nscalp: ⬛⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"ninth"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nnexus: 🟩🟨⬛⬛🟩\nolden: 🟨⬛🟩🟩🟨\n\nWhat must be the target word? Just provide the word.","output":"nodes"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntinge: ⬛🟨🟨⬛🟩\ncoryl: ⬛🟩⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"noise"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nkenos: ⬛⬛🟨🟨🟨\nporky: ⬛🟩⬛⬛🟩\nritsu: ⬛🟨⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"noisy"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nvents: ⬛🟨🟨🟨⬛\narced: ⬛⬛⬛🟩🟩\n\nWhat must be the target word? Just provide the word.","output":"noted"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\novest: 🟨⬛🟨🟨🟨\npones: ⬛🟩🟨🟩🟩\n\nWhat must be the target word? Just provide the word.","output":"notes"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsavor: ⬛⬛🟩🟨⬛\naxmen: ⬛⬛⬛🟩🟨\n\nWhat must be the target word? Just provide the word.","output":"novel"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nplain: ⬛🟨⬛⬛🟩\nfoxes: ⬛🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"nylon"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ngoths: ⬛🟨⬛⬛🟩\ndeair: ⬛⬛🟨🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"oasis"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npocus: ⬛🟨🟩🟩⬛\nglaur: ⬛⬛⬛🟩🟩\n\nWhat must be the target word? Just provide the word.","output":"occur"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncenti: 🟨🟨🟨⬛⬛\nbaken: ⬛🟨⬛🟨🟩\naviso: 🟨⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"ocean"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfogle: 🟨🟨⬛⬛🟨\nrovet: 🟨🟨⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"offer"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nition: ⬛🟨⬛🟨🟩\nfarde: 🟨⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"often"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nalmug: 🟨⬛🟨⬛🟨\nalose: 🟨⬛🟨⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"omega"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ngains: ⬛⬛🟩🟨⬛\nuntie: ⬛🟩⬛🟨⬛\nodist: 🟩⬛🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"onion"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsteno: 🟨⬛🟩🟩🟨\nrepot: ⬛🟨🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"opens"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nhemia: ⬛🟨⬛⬛🟩\napres: 🟨🟩🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"opera"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npouce: 🟨🟨⬛🟨⬛\npinch: 🟨🟨⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"optic"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\norate: 🟩🟩⬛🟨⬛\nbowel: 🟨🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"orbit"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nronde: 🟨🟨⬛🟨🟨\nanger: ⬛⬛⬛🟩🟩\nbries: ⬛🟩⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"order"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nuntar: ⬛🟨⬛🟩🟨\nosela: 🟩⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"organ"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nvogue: ⬛🟨🟩🟨⬛\nnomic: ⬛🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"ought"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntonic: ⬛🟨🟩⬛🟨\nmakes: ⬛⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"ounce"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nevict: 🟨🟩⬛⬛⬛\nnoise: 🟨🟨⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"ovens"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nlends: ⬛🟨🟩🟨⬛\nbotan: ⬛🟨⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"owned"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ninmew: ⬛🟨⬛🟩🟨\nrotge: 🟨🟨⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"owner"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsorda: ⬛🟨⬛🟩⬛\nzoism: ⬛🟨🟩⬛⬛\nshove: ⬛⬛🟨⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"oxide"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncizar: ⬛⬛🟨⬛⬛\nvoile: ⬛🟨⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"ozone"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsculp: 🟨🟨⬛⬛🟨\nweaky: ⬛⬛🟨🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"packs"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntrink: 🟨⬛🟩🟩⬛\nsalep: ⬛🟩⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"paint"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbarms: ⬛🟩🟨⬛🟩\nspier: 🟨🟨🟩⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"pairs"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndiose: 🟨⬛⬛⬛⬛\npukka: 🟩⬛⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"panda"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbalon: ⬛🟩🟨⬛🟨\nproas: 🟩⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"panel"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nlento: ⬛⬛🟩🟩⬛\ncaphs: ⬛🟩🟨⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"pants"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nprops: 🟩🟨⬛🟨⬛\nmudar: ⬛⬛⬛🟨🟩\ndimly: ⬛⬛⬛⬛⬛\nrepps: 🟨🟨🟩🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"paper"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nursae: ⬛🟨🟨🟨🟩\npujas: 🟩⬛⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"parse"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntripe: 🟨🟨⬛🟨⬛\nneats: ⬛⬛🟨🟩🟩\n\nWhat must be the target word? Just provide the word.","output":"parts"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbaret: ⬛🟩🟩⬛🟨\nstrip: ⬛🟨🟩⬛🟨\ncymes: ⬛🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"party"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npalls: 🟩🟩⬛⬛🟨\ntogue: 🟨⬛⬛⬛⬛\nyojan: ⬛⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"pasta"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nphots: 🟩⬛⬛🟩🟨\nbarge: ⬛🟩⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"paste"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nhault: 🟨🟩⬛⬛🟨\nspays: ⬛🟨🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"patch"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\naltos: 🟨⬛🟩⬛🟩\nsubch: 🟨⬛⬛⬛🟨\nalisp: 🟨⬛⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"paths"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntails: 🟨🟩🟨⬛⬛\ntoped: 🟨🟨🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"patio"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nlaude: ⬛🟩🟩⬛🟩\nheapy: ⬛🟨🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"pause"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nchair: 🟨🟨🟩⬛⬛\npbxes: 🟩⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"peach"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nyeply: ⬛🟩🟨⬛⬛\nspekt: 🟨🟨🟨🟩⬛\nmayst: ⬛🟨⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"peaks"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndowel: 🟨⬛⬛🟨🟩\npicra: 🟩⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"pedal"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npalis: 🟩🟨⬛⬛🟨\nretax: ⬛🟨⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"phase"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npored: 🟩🟨⬛🟨⬛\nhadnt: 🟨⬛⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"phone"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npanto: 🟩⬛⬛🟩🟩\nbensh: ⬛⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"photo"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nzendo: ⬛⬛🟨⬛🟩\nbialy: ⬛🟩🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"piano"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsnick: 🟨⬛🟨🟨🟨\npoems: 🟩⬛⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"picks"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncaped: 🟨⬛🟨🟨⬛\nclime: 🟨⬛🟨⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"piece"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\narils: ⬛⬛🟨🟩🟩\nchelp: ⬛⬛⬛🟩🟨\n\nWhat must be the target word? Just provide the word.","output":"pills"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nlidos: 🟨🟩⬛🟩⬛\nrente: ⬛⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"pilot"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nplies: 🟩⬛🟨🟩🟩\nlurks: ⬛⬛⬛⬛🟩\nuntax: ⬛⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"pipes"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncouth: 🟨⬛⬛🟨🟩\naport: ⬛🟨⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"pitch"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nhemia: ⬛⬛⬛🟨🟩\nlapse: ⬛🟨🟨⬛⬛\nscalt: ⬛⬛🟨⬛⬛\nebons: ⬛⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"pizza"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nspecs: ⬛🟨🟨🟩⬛\nacute: 🟨🟨⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"place"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npsoai: 🟩⬛⬛🟨🟨\nnavel: 🟨🟨⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"plain"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npeaky: 🟩🟨🟩⬛⬛\nclote: ⬛🟩⬛⬛🟩\nventa: ⬛🟨🟨⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"plane"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npleon: 🟩🟩⬛⬛🟨\nwites: ⬛⬛⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"plans"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nanlet: 🟨🟨🟨⬛🟩\nsewin: ⬛⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"plant"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfleys: ⬛🟩⬛🟩🟩\nlapon: 🟨🟨🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"plays"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npeans: 🟩⬛🟩⬛⬛\nunlit: ⬛⬛🟨⬛⬛\noozed: ⬛⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"plaza"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntiple: 🟨⬛🟨🟨⬛\nlobus: 🟨🟨⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"plots"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nnaumk: ⬛⬛🟩🟩⬛\npadle: 🟩⬛⬛🟨⬛\nretip: ⬛⬛⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"plump"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nplaza: 🟩🟩⬛⬛⬛\nchais: ⬛🟨⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"plush"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsmelt: 🟨🟨🟩⬛⬛\nchoel: ⬛⬛🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"poems"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nmotes: ⬛🟩🟨🟨🟩\n\nWhat must be the target word? Just provide the word.","output":"poets"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nmpret: ⬛🟨🟨🟩⬛\nsnoek: ⬛⬛🟨🟩🟨\n\nWhat must be the target word? Just provide the word.","output":"poker"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npirol: 🟩⬛🟨🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"polar"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nhopes: ⬛🟩🟨🟩🟩\npoule: 🟩🟩⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"poles"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbolas: ⬛🟩🟩⬛🟩\npithy: 🟩⬛⬛⬛⬛\ntheow: ⬛⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"polls"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ngoons: ⬛🟩🟩⬛🟩\npilin: 🟩⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"pools"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nplats: 🟩⬛⬛🟩🟩\ntroke: 🟨🟨🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"ports"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsidle: 🟨⬛🟨⬛🟨\ntophi: ⬛🟩🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"posed"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntious: 🟨⬛🟨⬛🟩\ncrape: ⬛⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"posts"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nposca: 🟩🟩⬛🟩⬛\nupcry: 🟨🟨🟨⬛⬛\nzeism: ⬛⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"pouch"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nroams: 🟨⬛⬛🟩⬛\nhived: ⬛🟨⬛🟨⬛\nsprot: ⬛🟨🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"prime"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nirate: 🟨🟩⬛🟨⬛\nnomap: 🟨⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"print"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nprink: 🟩🟩🟩⬛⬛\nhazan: ⬛⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"prize"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbrail: 🟨🟩⬛⬛⬛\nundig: ⬛⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"probe"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nphyma: 🟩⬛⬛🟩⬛\nbirsy: ⬛⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"promo"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncorpn: ⬛🟨🟨🟨⬛\nhowfs: ⬛🟨⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"proof"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nropey: 🟨🟨🟨🟨⬛\nanvil: ⬛⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"prove"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nports: 🟩🟨🟨⬛⬛\nidyls: ⬛⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"proxy"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npacos: 🟩⬛⬛⬛🟩\norale: ⬛⬛⬛🟩⬛\npishu: 🟩⬛🟨⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"pulls"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nplage: 🟩🟨⬛⬛🟩\nsybow: 🟨⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"pulse"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nramps: ⬛⬛🟩🟩🟩\npattu: 🟩⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"pumps"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nmusit: ⬛🟩⬛🟩⬛\npalet: 🟩⬛🟨⬛⬛\ngowdy: ⬛⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"pupil"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npipid: 🟩⬛🟩⬛⬛\nargot: ⬛⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"puppy"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nquass: 🟩🟩🟩⬛⬛\nbaske: ⬛🟨⬛🟩🟩\n\nWhat must be the target word? Just provide the word.","output":"quake"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbelly: ⬛🟨⬛⬛🟩\nquaff: 🟩🟩⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"query"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nquipo: 🟩🟩⬛⬛⬛\nfends: ⬛🟨⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"quest"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nquata: 🟩🟩⬛⬛⬛\nbahur: ⬛⬛⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"queue"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntiled: 🟨🟨⬛🟩⬛\nuteri: 🟨🟨🟨⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"quiet"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nlunge: 🟨🟩⬛⬛⬛\nducat: ⬛🟩⬛⬛🟩\nabody: ⬛⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"quilt"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntumid: 🟨🟩⬛🟨⬛\ncadge: ⬛⬛⬛⬛🟩\nsnead: ⬛⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"quite"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntubed: 🟨🟩⬛🟨⬛\nchows: ⬛⬛🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"quote"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nretch: 🟩🟨⬛🟨⬛\nfaits: ⬛🟩⬛⬛⬛\nruvid: 🟩⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"racer"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nremap: 🟩🟨⬛🟨⬛\nscrin: 🟨🟨🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"races"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nactus: 🟨🟨⬛⬛🟩\nrovet: 🟩⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"racks"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nritus: 🟩🟨⬛⬛🟩\nlovey: 🟨⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"rails"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nraked: 🟩🟩⬛🟨⬛\ngaist: ⬛🟩🟩🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"raise"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nlarve: 🟨🟩🟨⬛⬛\njelly: ⬛⬛🟩🟩🟩\n\nWhat must be the target word? Just provide the word.","output":"rally"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntorch: ⬛⬛🟨🟩🟩\nfiats: ⬛⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"ranch"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ngunks: ⬛⬛🟩🟩🟩\nrache: 🟩🟩⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"ranks"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nrecti: 🟩⬛⬛🟩⬛\nshant: 🟨⬛🟨🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"rants"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npoked: 🟨⬛⬛⬛🟩\nrowed: 🟩⬛⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"rapid"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nvoter: ⬛⬛🟩🟩🟨\nwinds: ⬛⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"rated"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nraked: 🟩🟩⬛🟩⬛\nslait: 🟨⬛🟨⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"rates"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nnitre: ⬛🟨🟩🟨⬛\nocque: 🟨⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"ratio"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nhaddo: ⬛🟩⬛⬛🟨\nrumen: 🟩⬛⬛⬛⬛\nbetso: ⬛⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"razor"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nrenay: 🟩🟩⬛🟨⬛\ndasht: ⬛🟨⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"reach"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nteras: 🟨🟩🟨🟨⬛\nmacho: ⬛🟨🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"react"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nroams: 🟩⬛🟩⬛🟩\ndonat: 🟨⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"reads"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nlamer: 🟨🟨🟨🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"realm"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfikey: 🟨⬛⬛🟩⬛\naiger: ⬛⬛⬛🟩🟩\nrials: 🟩⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"refer"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbeaky: 🟨🟩🟨⬛⬛\njough: ⬛⬛⬛⬛🟨\nredos: 🟩🟩⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"rehab"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nargon: ⬛🟨🟨⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"reign"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbelay: ⬛🟩🟩🟩⬛\npaper: ⬛🟨⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"relax"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbedim: ⬛🟩⬛🟩🟨\ntorus: ⬛⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"remix"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nearns: 🟨⬛🟨🟨⬛\nembow: 🟨⬛⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"renew"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nolpes: ⬛🟨🟩🟨⬛\nwarch: ⬛⬛🟨⬛⬛\npadri: 🟨⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"reply"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfetes: ⬛🟩🟨🟩🟨\nblocs: ⬛⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"reset"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nroshi: 🟩🟨⬛⬛⬛\npatao: ⬛⬛🟩⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"retro"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nrethe: 🟩🟩⬛⬛🟩\ncrest: ⬛🟨🟨🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"reuse"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndarns: 🟨⬛🟨⬛🟩\npicky: ⬛🟩⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"rides"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nruned: 🟩⬛⬛🟨🟨\npeach: ⬛🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"ridge"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncoils: ⬛⬛🟨🟩⬛\nresay: 🟩🟨⬛⬛⬛\nfrail: 🟨🟨⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"rifle"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ngiant: 🟨🟩⬛⬛🟩\nwrits: ⬛🟨🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"right"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nargan: ⬛🟨🟨⬛🟨\nstrue: 🟨⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"rings"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nribby: 🟩🟩⬛⬛⬛\nmerls: ⬛🟨🟨⬛🟩\neasts: 🟨⬛🟩⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"rises"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\njerky: ⬛⬛🟨🟩⬛\nclips: ⬛⬛🟨⬛🟩\ntenso: ⬛⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"risks"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nkovil: ⬛⬛🟩🟨🟩\nraces: 🟩🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"rival"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndrone: 🟨🟨🟨⬛⬛\nheald: ⬛⬛🟩⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"roads"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nboral: 🟨🟩🟨⬛⬛\nsteri: ⬛🟨⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"robot"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nlaker: ⬛⬛🟨⬛🟨\ncoing: 🟨🟩⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"rocks"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nwages: ⬛⬛🟩🟨⬛\nreoil: 🟩🟨🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"rogue"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndowel: ⬛🟩⬛🟩🟨\npyres: ⬛⬛🟨🟩🟩\n\nWhat must be the target word? Just provide the word.","output":"roles"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nproal: ⬛🟨🟨⬛🟨\nleaks: 🟨⬛⬛⬛🟩\ntwice: ⬛⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"rolls"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntorse: ⬛🟩🟨🟨⬛\nfcomp: ⬛⬛🟩🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"rooms"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntreks: ⬛🟨🟨⬛🟩\ninset: ⬛⬛🟩🟩⬛\nwhorl: ⬛⬛🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"roses"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbauge: ⬛⬛🟩🟩🟩\navour: ⬛⬛🟨🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"rouge"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nstegh: ⬛⬛⬛🟩🟩\nracon: 🟩⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"rough"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncrang: ⬛🟨⬛🟩⬛\nfudge: ⬛🟨🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"round"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsoler: ⬛🟩⬛🟨🟨\nghaut: ⬛⬛⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"route"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nunwed: 🟨⬛⬛🟩🟩\njalur: ⬛⬛🟩🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"ruled"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncruel: ⬛🟨🟨⬛🟩\nracon: 🟩🟨⬛⬛⬛\nforbs: ⬛⬛🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"rural"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbadly: ⬛🟩🟩🟩🟩\nnavis: ⬛🟩⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"sadly"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfavus: 🟨🟩⬛⬛🟨\nturns: ⬛⬛🟨⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"safer"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nplead: ⬛🟨⬛🟩🟩\nhedgy: ⬛⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"salad"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nshred: 🟩⬛⬛🟩⬛\nlodes: 🟨⬛⬛🟩🟩\nindue: ⬛⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"sales"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nkilns: ⬛⬛🟩🟨🟨\nwarts: ⬛🟩⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"salon"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsapek: 🟩🟩⬛⬛⬛\nrebia: ⬛⬛🟨⬛🟩\ndouma: ⬛⬛⬛🟨🟩\n\nWhat must be the target word? Just provide the word.","output":"samba"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nlamin: ⬛🟩⬛🟩🟩\ncothe: ⬛⬛🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"satin"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nchunk: 🟨⬛🟩⬛⬛\nacone: 🟨🟨⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"sauce"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndeans: ⬛⬛🟨🟩🟨\npetum: ⬛⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"sauna"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nvelar: 🟨🟨⬛🟨⬛\nfumes: ⬛⬛⬛🟩🟨\nloden: ⬛⬛🟨🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"saved"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nscaur: 🟩⬛🟨⬛🟩\nsited: 🟩⬛⬛🟩⬛\nspave: 🟩⬛🟨🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"saver"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsires: 🟩⬛⬛🟩🟩\nnevoy: ⬛🟨🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"saves"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nleans: 🟨🟨🟩⬛🟨\ncowls: 🟨⬛⬛🟩🟨\n\nWhat must be the target word? Just provide the word.","output":"scale"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsewan: 🟩⬛⬛🟨🟨\nlatch: ⬛🟨⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"scans"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncakey: 🟨🟨⬛⬛🟩\nazure: 🟨⬛⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"scary"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nscena: 🟩🟩🟩🟩⬛\noxane: ⬛⬛⬛🟩🟩\n\nWhat must be the target word? Just provide the word.","output":"scene"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndreck: ⬛⬛🟩🟨⬛\nshale: 🟩⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"scent"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nblocs: ⬛⬛🟩🟨🟨\ndupes: ⬛⬛🟨⬛🟨\nentom: ⬛⬛⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"scoop"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsnock: 🟩⬛🟩🟨⬛\ndepas: ⬛🟨🟨⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"scope"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsacry: 🟩⬛🟨🟩⬛\nfrden: ⬛🟨⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"score"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbrats: ⬛🟨🟨⬛🟨\nonces: ⬛⬛🟨⬛🟨\nspink: 🟩🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"scrap"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\necrus: 🟨🟩🟩⬛🟨\nwarps: 🟨⬛🟩⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"screw"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nstaph: 🟩🟨🟩⬛⬛\nketal: ⬛🟩🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"seats"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfeedy: ⬛🟩🟩🟩⬛\nscelp: 🟩⬛🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"seeds"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsleck: 🟩⬛🟩⬛🟨\njeton: ⬛🟩⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"seeks"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsmuse: 🟩🟨⬛🟨🟨\nlanes: ⬛⬛⬛🟨🟩\ncequi: ⬛🟩⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"seems"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npanda: ⬛⬛🟩🟩⬛\nsegol: 🟩🟩⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"sends"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nmends: ⬛🟩🟩⬛🟨\nalowe: ⬛⬛⬛⬛🟩\nsecus: 🟩🟩⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"sense"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsaker: 🟩⬛⬛🟨🟨\ndemal: ⬛🟩🟨⬛⬛\nileum: ⬛⬛🟨🟩🟩\n\nWhat must be the target word? Just provide the word.","output":"serum"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nveins: 🟨🟩⬛⬛🟨\nloger: ⬛⬛⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"serve"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npalet: 🟨⬛⬛🟨🟨\nlatus: ⬛⬛🟩🟩🟨\n\nWhat must be the target word? Just provide the word.","output":"setup"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nwaver: ⬛⬛🟩🟩⬛\ntines: ⬛⬛🟨🟩🟨\n\nWhat must be the target word? Just provide the word.","output":"seven"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nresex: 🟨🟩🟨🟩⬛\nwilco: 🟨⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"sewer"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndeils: 🟨🟨⬛⬛🟨\nshedu: 🟩🟩🟨🟩⬛\nsowel: 🟩⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"shade"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nmaths: ⬛🟨🟨🟨🟨\nfohat: 🟨⬛🟨🟨🟩\n\nWhat must be the target word? Just provide the word.","output":"shaft"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nhaire: 🟨🟨⬛⬛🟩\npolki: ⬛⬛⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"shake"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsnail: 🟩⬛🟩⬛🟩\nwhand: ⬛🟩🟩⬛⬛\ndusky: ⬛⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"shall"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npoems: ⬛⬛🟨🟩🟨\ngrave: ⬛⬛🟩⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"shame"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsprad: 🟩⬛🟨🟨⬛\nhawse: 🟨🟨⬛🟨🟩\n\nWhat must be the target word? Just provide the word.","output":"share"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsherd: 🟩🟩⬛🟩⬛\nulans: ⬛⬛🟩⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"shark"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npixes: 🟨⬛⬛🟩🟨\nraghu: ⬛⬛⬛🟨⬛\nriels: ⬛⬛🟩⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"sheep"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nastir: ⬛🟨⬛⬛🟩\nkosha: ⬛⬛🟨🟨⬛\nwanky: ⬛⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"sheer"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbhuts: ⬛🟩⬛🟨🟨\ncopei: ⬛⬛⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"sheet"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nstyli: 🟩⬛⬛🟩⬛\nkefir: ⬛🟨🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"shelf"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfoils: 🟨⬛🟩⬛🟨\noaths: ⬛⬛🟨🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"shift"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfoins: ⬛⬛🟩🟩🟨\nhyleg: 🟨⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"shine"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsilts: 🟩🟨⬛⬛🟩\nphren: 🟨🟩⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"ships"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntrips: 🟨🟨🟩⬛🟨\nhendy: 🟨⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"shirt"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsanct: 🟩⬛⬛🟩⬛\nalogy: ⬛⬛🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"shock"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsoler: 🟩🟨⬛🟩⬛\nokays: 🟨⬛⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"shoes"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nwhute: ⬛🟩⬛🟨⬛\nagism: ⬛⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"shoot"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nshits: 🟩🟩⬛⬛🟩\nadrip: ⬛⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"shops"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nthous: 🟨🟩🟩⬛🟩\nflimp: ⬛⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"shots"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nshita: 🟩🟩⬛🟨⬛\ntrios: 🟨⬛⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"shout"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nswang: 🟩🟨⬛🟨⬛\nclean: ⬛⬛⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"shown"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\noshea: 🟨🟨🟨⬛⬛\nthewy: ⬛🟩⬛🟩⬛\ncones: ⬛🟨⬛⬛🟩\nstamp: 🟩⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"shows"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbides: ⬛🟩🟩🟩🟩\nstade: 🟩⬛⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"sides"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\naught: ⬛⬛🟩🟩🟩\nstane: 🟩🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"sight"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ngases: 🟨⬛🟨⬛🟩\nglint: 🟨⬛🟨🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"signs"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nswoln: 🟩⬛⬛🟩⬛\nsixty: 🟩🟩⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"silly"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nminke: ⬛🟩🟩⬛🟩\nnecks: 🟨🟨🟨⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"since"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsarna: 🟩⬛⬛🟨⬛\nbiome: ⬛🟩⬛⬛⬛\nworks: ⬛⬛⬛🟩🟩\n\nWhat must be the target word? Just provide the word.","output":"sinks"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nistle: 🟨🟨🟩⬛🟨\nsquad: 🟩⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"sites"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nxenic: 🟨⬛⬛🟨⬛\nchyak: ⬛🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"sixth"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nstire: 🟩🟨🟨⬛⬛\nclyer: ⬛⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"sixty"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndries: 🟨⬛🟨🟩🟨\nzarfs: 🟨⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"sized"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbirne: ⬛🟩⬛⬛🟨\nswigs: 🟩⬛🟨⬛🟩\nadoze: ⬛⬛⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"sizes"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncalks: ⬛🟨⬛🟨🟨\necart: 🟨⬛🟩⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"skate"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsilen: 🟩🟨⬛🟩⬛\nsicks: 🟩🟨⬛🟨🟩\n\nWhat must be the target word? Just provide the word.","output":"skies"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nslank: 🟩⬛⬛🟩🟨\nhates: ⬛⬛⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"skins"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nawink: ⬛⬛🟩⬛🟨\nretag: 🟨⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"skirt"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntilak: ⬛⬛🟨⬛🟨\nknurl: 🟨⬛🟩⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"skull"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nlunas: 🟨⬛⬛🟨🟨\nspute: 🟩⬛⬛🟩🟩\n\nWhat must be the target word? Just provide the word.","output":"slate"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nprick: ⬛⬛🟩🟩⬛\nfogle: ⬛⬛⬛🟨🟩\n\nWhat must be the target word? Just provide the word.","output":"slice"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nskelp: 🟩⬛🟨🟨⬛\ngadis: ⬛⬛🟨🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"slide"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nstore: 🟩⬛🟩⬛🟩\noleum: 🟨🟩🟨⬛⬛\nyawps: ⬛⬛⬛🟩🟨\n\nWhat must be the target word? Just provide the word.","output":"slope"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nleets: 🟨⬛⬛🟩🟩\nscouk: 🟩⬛🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"slots"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nhaole: ⬛⬛⬛🟩🟨\namelu: ⬛🟩🟩🟩⬛\nnocht: ⬛⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"smell"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nlooms: 🟨⬛⬛🟨🟨\nseity: 🟩🟨🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"smile"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nayens: 🟨⬛⬛🟨🟨\nkarch: 🟨🟨⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"snack"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nswonk: 🟩⬛⬛🟨🟨\nbuaze: ⬛⬛🟩⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"snake"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncoati: 🟨🟩⬛⬛⬛\nsards: 🟩⬛⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"socks"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nskins: 🟩⬛🟩⬛🟩\nparle: ⬛⬛⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"soils"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\naloes: 🟨🟨🟨⬛🟨\nforts: ⬛🟩🟨⬛🟨\ngulpy: ⬛⬛🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"solar"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nkilts: ⬛🟨🟩⬛🟨\nalody: ⬛🟨🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"solid"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndivas: ⬛⬛🟨⬛🟨\nmoist: ⬛🟩⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"solve"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nchego: ⬛⬛⬛🟩🟨\nswabs: 🟩⬛⬛⬛🟩\ncoven: ⬛🟩⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"songs"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndomic: ⬛🟩⬛🟩🟩\nstunk: 🟩⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"sonic"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\naiery: ⬛⬛⬛🟩🟩\njumps: ⬛⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"sorry"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nworse: ⬛🟩🟩🟨⬛\nstyes: 🟩🟨⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"sorts"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndolts: ⬛🟩🟨⬛🟩\nshive: 🟩⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"souls"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nuptie: ⬛🟩⬛⬛🟩\nazoch: 🟨⬛⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"space"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nkiers: ⬛⬛🟨🟩🟨\nnomap: ⬛⬛⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"spare"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nrotas: ⬛⬛⬛🟩🟨\nknaur: 🟨⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"speak"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\neyres: 🟨⬛⬛🟩🟨\nskewl: 🟩⬛🟩⬛⬛\nmoted: ⬛⬛⬛🟩🟩\n\nWhat must be the target word? Just provide the word.","output":"speed"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nspail: 🟩🟩⬛⬛🟩\ncotes: ⬛⬛⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"spell"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsteno: 🟩⬛🟩🟩⬛\ncrypt: ⬛⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"spend"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\navens: ⬛⬛🟩🟩🟨\nvapid: ⬛⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"spent"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nstipe: 🟩⬛🟩🟨🟩\nchaws: 🟨⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"spice"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nplier: 🟨⬛🟩🟩⬛\ngleds: ⬛⬛🟨⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"spies"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntapul: ⬛⬛🟨⬛🟩\nponey: 🟨⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"spill"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsnead: 🟩🟨🟨⬛⬛\nlupis: ⬛⬛🟨🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"spine"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nspyer: 🟩🟩⬛🟨⬛\nokapi: 🟨🟨⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"spoke"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntonus: ⬛🟨🟨⬛🟨\nspung: 🟩🟩⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"spoon"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nboist: ⬛🟨⬛🟨🟩\ncorpn: ⬛🟨🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"sport"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npelta: 🟨⬛⬛🟩⬛\nsuite: 🟩⬛⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"spots"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nvardy: ⬛🟨🟩⬛🟩\nwrapt: ⬛🟨🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"spray"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nejusd: ⬛⬛🟩🟨🟩\nsairy: 🟩🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"squad"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nflics: ⬛⬛⬛🟩🟨\nshant: 🟩⬛🟩⬛🟨\ncasky: 🟨🟨🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"stack"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfatil: 🟨🟨🟨⬛⬛\nknars: ⬛⬛🟩⬛🟨\nsteal: 🟩🟩⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"staff"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsquib: 🟩⬛⬛🟩⬛\nravin: ⬛🟨⬛🟩🟩\nismal: 🟨🟨⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"stain"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nthymi: 🟨⬛⬛🟩⬛\nleafs: ⬛⬛🟩⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"stamp"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntaled: 🟨🟨⬛⬛🟩\nshogi: 🟩⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"stand"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntrail: 🟨🟨🟩⬛⬛\nkanes: ⬛🟨⬛⬛🟨\nspelt: 🟩⬛⬛⬛🟩\npoucy: ⬛⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"start"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nstube: 🟩🟩⬛⬛⬛\nyarth: ⬛🟨⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"stats"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsties: 🟩🟩⬛⬛🟩\ndoncy: ⬛⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"stays"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nwhets: ⬛⬛🟩🟨🟨\nstola: 🟩🟩⬛⬛🟨\nthink: 🟨⬛⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"steak"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfetas: ⬛🟨🟨🟩🟨\nboils: ⬛⬛⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"steal"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nmedal: 🟨🟨⬛🟩⬛\nspory: 🟩⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"steam"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nspecs: 🟩🟨🟩⬛🟩\nislot: ⬛🟨⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"steps"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nstied: 🟩🟩🟩⬛⬛\npaces: ⬛⬛🟨⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"stick"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfacit: 🟨⬛⬛🟨🟨\nnukes: ⬛⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"stiff"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\notary: 🟨🟩⬛⬛⬛\nbedot: ⬛⬛🟨🟩🟨\n\nWhat must be the target word? Just provide the word.","output":"stood"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsuits: 🟩⬛⬛🟨🟩\ntypos: 🟨⬛🟨🟨🟩\n\nWhat must be the target word? Just provide the word.","output":"stops"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntreys: 🟨🟨🟨⬛🟨\nmodel: ⬛🟨⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"store"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nvails: 🟨⬛⬛⬛🟨\nduets: ⬛⬛🟨🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"stove"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfrawn: ⬛🟨🟨🟨⬛\nbahts: ⬛🟨⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"straw"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nspail: 🟩🟨⬛🟩⬛\ntushy: 🟨⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"strip"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsteak: 🟩🟩⬛⬛🟩\nadcon: ⬛⬛🟨⬛⬛\nfilth: ⬛⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"stuck"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntrued: 🟨⬛🟩⬛🟨\nsalty: 🟩⬛⬛🟨🟩\n\nWhat must be the target word? Just provide the word.","output":"study"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ngnoff: ⬛⬛⬛🟩🟩\nstauk: 🟩🟩⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"stuff"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nleafy: 🟨🟨⬛⬛🟨\nfrate: ⬛⬛⬛🟨🟩\n\nWhat must be the target word? Just provide the word.","output":"style"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nstope: 🟩🟨⬛⬛🟩\nunrid: 🟨⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"suite"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nstaup: 🟩🟨⬛🟨⬛\nzunis: ⬛🟩⬛🟨🟩\n\nWhat must be the target word? Just provide the word.","output":"suits"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncripe: ⬛🟨⬛🟨🟨\nayous: ⬛⬛⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"super"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndulse: ⬛🟩⬛🟨🟩\nmurid: ⬛🟩🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"surge"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbiset: ⬛🟨🟩⬛⬛\nhumet: 🟨🟩⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"sushi"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nwheal: 🟨⬛🟩🟩⬛\ntchai: 🟨⬛⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"sweat"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nupbow: ⬛🟨⬛⬛🟨\nliers: ⬛⬛🟩⬛🟨\ngrift: ⬛⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"sweep"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nrings: ⬛🟨🟨🟨🟨\nwoads: 🟨⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"swing"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nswarf: 🟩🟩⬛🟩⬛\nboard: ⬛🟨⬛🟩🟩\n\nWhat must be the target word? Just provide the word.","output":"sword"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbaled: 🟨🟩🟨🟨⬛\ntribe: 🟩⬛⬛🟨🟩\n\nWhat must be the target word? Just provide the word.","output":"table"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nrogan: ⬛⬛⬛🟨🟩\nkusti: 🟨⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"taken"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nlicks: ⬛⬛⬛🟨🟩\ntemin: 🟩🟨⬛⬛⬛\nmaneh: ⬛🟩⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"takes"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npelfs: ⬛🟨🟩⬛🟩\ninact: ⬛⬛🟨⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"tales"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nexalt: ⬛⬛🟨🟨🟨\nsocky: 🟨⬛⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"talks"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntacks: 🟩🟩⬛🟩🟩\nboden: ⬛⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"tanks"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nkusti: 🟨⬛🟩🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"tasks"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nstare: 🟨🟨🟨⬛🟩\ntypic: 🟩⬛⬛⬛⬛\nblush: ⬛⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"taste"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nantsy: 🟨⬛🟨🟨🟩\ntuned: 🟩⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"tasty"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntaver: 🟩🟩⬛🟩⬛\nmixes: ⬛⬛🟩🟩🟩\n\nWhat must be the target word? Just provide the word.","output":"taxes"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nmuist: 🟨⬛⬛🟨🟨\nfames: ⬛🟨🟨🟨🟩\n\nWhat must be the target word? Just provide the word.","output":"teams"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nrouts: 🟨⬛⬛🟨🟩\nquark: ⬛⬛🟩🟩⬛\nfumet: ⬛⬛⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"tears"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntaros: 🟩⬛⬛⬛🟩\nkenaf: ⬛🟩🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"teens"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntoosh: 🟩⬛⬛⬛🟩\ncruth: ⬛⬛⬛🟩🟩\narent: ⬛⬛🟩⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"teeth"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\njills: ⬛⬛🟩🟩🟩\nmotey: ⬛⬛🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"tells"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbands: ⬛⬛🟩🟩🟩\ndoubt: 🟨⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"tends"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\njantu: ⬛⬛🟩🟩⬛\nthilk: 🟩🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"tenth"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nneums: 🟨🟩⬛⬛🟩\nteaty: 🟩🟩⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"tents"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsermo: 🟨🟩🟩🟩⬛\nshoat: 🟨⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"terms"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntenso: 🟩🟩⬛🟨⬛\naltos: ⬛⬛🟨⬛🟩\nelsin: 🟨⬛🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"tests"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsenti: 🟨🟩⬛🟩⬛\nmonax: ⬛⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"texts"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nwreak: ⬛⬛⬛🟨🟩\ngrunt: ⬛⬛⬛🟩🟨\nmowch: ⬛⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"thank"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfetal: 🟨🟨🟨⬛⬛\ntrogs: 🟩⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"theft"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nwhist: ⬛🟩🟨⬛🟨\nvalor: ⬛⬛⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"their"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntambo: 🟩⬛🟨⬛⬛\nprate: ⬛⬛⬛🟨🟩\naguey: ⬛⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"theme"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nwheft: ⬛🟩🟩⬛🟨\ncabre: ⬛⬛⬛🟩🟩\n\nWhat must be the target word? Just provide the word.","output":"there"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nhutre: 🟨⬛🟨⬛🟩\npotsy: ⬛⬛🟨🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"these"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfotch: ⬛⬛🟨🟩🟨\nhaulm: 🟨⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"thick"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntrims: 🟩⬛🟩⬛⬛\ngowan: 🟨⬛⬛⬛🟨\nbliny: ⬛⬛🟩🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"thing"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nhaick: 🟨⬛🟩⬛🟩\nbaign: ⬛⬛🟩⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"think"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\naloed: ⬛⬛⬛⬛🟩\nricht: 🟨🟨⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"third"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nclong: ⬛⬛🟩🟩🟩\npiths: ⬛⬛🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"thong"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nwhits: ⬛🟩⬛🟨🟨\nthrou: 🟩🟩⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"those"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nwicht: 🟨⬛⬛🟨🟨\nlaten: ⬛⬛🟨🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"threw"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nwhoas: 🟨🟩🟨⬛⬛\nslour: ⬛⬛🟨⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"throw"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbhuts: 🟨🟩🟩🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"thumb"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nyagis: ⬛⬛🟩🟨⬛\ntaker: 🟩⬛⬛🟩🟩\n\nWhat must be the target word? Just provide the word.","output":"tiger"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nteugh: 🟩⬛⬛🟨🟨\nlangi: ⬛⬛⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"tight"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nmelts: ⬛🟨🟩🟨🟩\ntophi: 🟩⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"tiles"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nmiter: 🟨🟩🟨🟩🟩\n\nWhat must be the target word? Just provide the word.","output":"timer"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntairn: 🟩⬛🟨⬛⬛\ndimes: ⬛🟩🟩🟩🟩\n\nWhat must be the target word? Just provide the word.","output":"times"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nexpdt: 🟨⬛⬛🟨🟨\ncigar: ⬛🟩⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"tired"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nstria: 🟨🟨🟩🟨⬛\nsiped: 🟨🟩⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"tires"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nflite: ⬛🟨🟨🟨🟩\ntires: 🟩🟩⬛🟨⬛\npalki: ⬛⬛🟨⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"title"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntipsy: 🟩⬛⬛🟩⬛\nrapes: ⬛🟨⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"toast"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndally: 🟨🟨⬛⬛🟩\nwreat: ⬛⬛⬛🟩🟨\n\nWhat must be the target word? Just provide the word.","output":"today"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntykes: 🟩⬛🟩🟩⬛\nabrin: ⬛⬛⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"token"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsoger: ⬛🟩⬛🟩🟩\ntenla: 🟩🟨🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"toner"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntoles: 🟩🟩⬛🟩🟩\ndisna: ⬛⬛🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"tones"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfloes: ⬛🟨🟩⬛🟩\ntarmi: 🟩⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"tools"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbroth: ⬛⬛🟩🟩🟩\nteffs: 🟩⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"tooth"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npatch: 🟨⬛🟨🟨⬛\nlimby: ⬛🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"topic"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nscrit: ⬛🟨🟩⬛🟨\nphuts: ⬛🟨⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"torch"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nental: ⬛⬛🟩🟩🟩\ntecon: 🟩⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"total"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nscute: ⬛🟨🟩🟨⬛\npsych: ⬛⬛⬛🟩🟩\n\nWhat must be the target word? Just provide the word.","output":"touch"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\naught: ⬛🟨🟨🟨🟨\novile: 🟨⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"tough"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nwhelp: 🟨⬛🟨🟨⬛\nforts: ⬛🟩⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"towel"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npowny: ⬛🟩🟩🟩⬛\nthrou: 🟩⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"towns"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncoart: 🟨🟩⬛⬛🟨\ntaxer: 🟩⬛🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"toxic"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nclink: 🟨⬛⬛⬛🟩\ntunka: 🟩⬛⬛🟨🟨\npetri: ⬛⬛🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"track"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsacre: ⬛🟨⬛🟨🟩\nvolte: ⬛⬛⬛🟨🟩\nhayed: ⬛🟨⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"trade"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nhorol: ⬛⬛🟨⬛🟩\nstoai: ⬛🟨⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"trail"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfrena: ⬛🟩⬛🟨🟨\ntenai: 🟩⬛🟨🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"train"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npacer: 🟨🟨⬛⬛🟨\ntrues: 🟩🟩⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"traps"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nstrop: 🟨🟨🟨⬛⬛\naphid: 🟨⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"trash"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ninept: ⬛⬛🟩⬛🟨\ntaces: 🟩⬛⬛🟩🟩\nboyla: ⬛⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"trees"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nootid: ⬛⬛🟨⬛🟩\ngareh: ⬛⬛🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"trend"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nrimal: 🟨🟨⬛🟩🟩\nhates: ⬛🟨🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"trial"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nariot: ⬛🟩🟩⬛🟨\nbelli: 🟨🟨⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"tribe"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsceat: ⬛🟨⬛⬛🟨\nacrid: ⬛🟨🟨🟨⬛\nkurta: 🟨⬛🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"trick"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npried: ⬛🟩🟩🟩🟩\nitous: 🟨🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"tried"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbides: ⬛🟨⬛🟩🟩\ntheir: 🟩⬛🟨🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"tries"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nprill: 🟨🟩🟩⬛⬛\nfrets: ⬛🟩⬛🟨🟩\n\nWhat must be the target word? Just provide the word.","output":"trips"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndicot: ⬛⬛🟨⬛🟨\nkhair: 🟨⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"truck"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npudgy: ⬛🟨⬛⬛🟩\ngruft: ⬛🟩🟩⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"truly"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntrays: 🟩🟩⬛⬛⬛\ninrub: ⬛🟨🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"trunk"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nwites: ⬛⬛🟨🟩🟩\nbowet: 🟨⬛⬛🟩🟨\nsluer: 🟨⬛🟨🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"tubes"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nthous: 🟩⬛⬛🟨⬛\ndonec: 🟨⬛🟩🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"tuned"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nmenta: ⬛🟨🟩🟨⬛\ncarpi: ⬛⬛🟨⬛⬛\ndompt: ⬛⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"tuner"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntangi: 🟩⬛🟩⬛⬛\npudsy: ⬛🟩⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"tunes"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nurent: 🟨🟨⬛🟩🟨\n\nWhat must be the target word? Just provide the word.","output":"turns"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nexcur: ⬛⬛⬛🟨🟩\nitous: ⬛🟨🟨🟨⬛\nrales: 🟨⬛⬛⬛⬛\nloams: ⬛🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"tutor"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nwined: 🟨🟨⬛🟨⬛\nducky: ⬛⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"twice"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntryst: 🟩⬛⬛🟩🟩\npirol: ⬛🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"twist"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npomey: 🟨⬛⬛🟩🟨\ndoest: 🟨⬛🟨⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"typed"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntangy: 🟩⬛⬛⬛🟨\npaler: 🟨⬛⬛🟩⬛\nsoulx: 🟨⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"types"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nulent: 🟩🟩⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"ultra"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nadunc: ⬛⬛🟨🟨🟨\ndrift: ⬛⬛⬛⬛🟩\nmanky: ⬛⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"uncut"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ninfra: ⬛🟩⬛🟨⬛\nknead: ⬛🟩🟨⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"under"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nousia: ⬛🟨🟨🟨⬛\nritsu: ⬛🟨🟨🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"units"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ninlaw: 🟨🟩🟨⬛⬛\nmeous: ⬛⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"until"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nepics: 🟨🟩⬛⬛⬛\nearls: 🟨⬛🟨⬛⬛\nhilum: ⬛⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"upper"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nluted: ⬛🟨🟨🟩⬛\nterns: 🟨🟨⬛⬛🟨\npocus: 🟨⬛⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"upset"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\naread: ⬛🟩🟨⬛🟩\ngunda: 🟨🟨⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"urged"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\noscin: ⬛🟩⬛⬛⬛\ngolem: 🟨⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"usage"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nadure: ⬛⬛🟨🟩🟨\nsnead: 🟨⬛🟩⬛⬛\nright: 🟨⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"users"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\naunts: ⬛🟨🟨⬛🟨\nshogi: 🟨⬛⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"using"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndugal: ⬛🟨⬛🟩🟩\nlures: 🟨🟨⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"usual"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\native: 🟨⬛🟨🟨⬛\npilot: ⬛🟨🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"valid"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbulby: ⬛🟨🟩⬛⬛\nrebus: ⬛🟨⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"value"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nanvil: 🟨⬛🟨⬛🟨\nrache: ⬛🟩⬛⬛🟩\netuis: 🟨⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"valve"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ngalvo: ⬛🟩⬛🟨🟨\nletup: ⬛⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"vapor"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ngaudy: ⬛🟩🟩⬛⬛\nlevee: 🟨⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"vault"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsavin: ⬛⬛🟨⬛🟨\npukes: ⬛🟨⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"venue"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nmerge: ⬛🟩🟩⬛🟩\nstoof: 🟨⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"verse"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntowed: ⬛🟨⬛🟩🟨\nkitar: ⬛🟩⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"video"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nvuggs: 🟩⬛⬛⬛🟩\nwears: 🟨🟨⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"views"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\novant: ⬛🟨⬛🟨⬛\nglume: ⬛🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"vinyl"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ngrowl: ⬛🟨⬛⬛🟩\ntiraz: ⬛🟩🟩🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"viral"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ninrub: 🟨⬛🟩🟩⬛\nsnork: 🟨⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"virus"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nvinta: 🟩🟩⬛🟨⬛\nspald: 🟨⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"visit"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nvidya: 🟩🟩⬛⬛🟨\nketyl: ⬛⬛🟩⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"vital"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nvenin: 🟩⬛⬛🟩⬛\nresat: ⬛⬛⬛⬛⬛\ndiwan: 🟨🟩⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"vivid"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nyoick: ⬛🟩⬛🟨⬛\nleafy: 🟨⬛🟨⬛⬛\ngucks: ⬛⬛🟩⬛⬛\nblurt: ⬛🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"vocal"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nmedio: ⬛🟨⬛🟨🟨\nclame: 🟨⬛⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"voice"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndivus: 🟨⬛🟨⬛⬛\nstour: ⬛🟨🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"voted"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nvoled: 🟩🟩⬛🟩⬛\netrog: 🟨🟨🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"voter"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsoler: 🟨🟩⬛🟩⬛\nintsv: ⬛⬛🟩🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"votes"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nwires: 🟩⬛⬛🟩🟩\ngater: 🟨🟩⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"wages"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nfetwa: ⬛⬛🟨🟨🟨\nlicks: ⬛🟨⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"waist"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nchews: ⬛⬛⬛🟨🟩\nhulas: ⬛⬛🟩🟨🟩\n\nWhat must be the target word? Just provide the word.","output":"walks"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nwetly: 🟩⬛🟨⬛⬛\ntanks: 🟨🟩🟩⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"wants"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntowel: 🟨⬛🟨🟨⬛\nlawns: ⬛🟩🟨⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"waste"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nnaish: ⬛🟩⬛⬛🟩\ncerat: 🟨⬛⬛🟨🟨\nwhamp: 🟩🟨🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"watch"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nwaits: 🟩🟩⬛🟨⬛\ndarns: ⬛🟩🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"water"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nchide: ⬛🟨🟩⬛🟨\nawkly: ⬛🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"weigh"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\npetri: ⬛🟩⬛🟩🟨\ndepas: 🟨🟩⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"weird"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nthank: 🟨🟩🟨⬛⬛\nwites: 🟩⬛🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"wheat"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nkabel: ⬛⬛⬛🟩🟩\nwaged: 🟩⬛⬛🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"wheel"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nweave: 🟩🟨⬛⬛🟩\norium: ⬛🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"where"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nnarcs: ⬛⬛⬛🟩⬛\nwider: 🟩🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"which"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ntawie: ⬛⬛🟨🟨🟩\ncloze: ⬛🟨⬛⬛🟩\ntaxis: ⬛⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"while"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nwhsle: 🟩🟩⬛🟩🟩\npouts: ⬛🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"whole"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nwolfs: 🟩🟨⬛⬛🟨\nfream: ⬛⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"whose"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nriped: 🟨🟩⬛🟩🟨\nwhiba: 🟩⬛🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"wider"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nwould: 🟩🟨⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"widow"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nshift: ⬛🟨🟨⬛🟨\ndiker: 🟨🟩⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"width"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nnoise: 🟨⬛🟨🟨🟨\nspawn: 🟨⬛⬛🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"wines"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nblaws: ⬛⬛⬛🟨🟩\ndinge: ⬛🟩🟩🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"wings"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ncadew: ⬛⬛🟨🟩🟨\nlores: ⬛⬛🟩🟩⬛\n\nWhat must be the target word? Just provide the word.","output":"wired"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nsawer: 🟨⬛🟨🟩🟨\nnoire: ⬛⬛🟨🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"wires"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nmiaow: ⬛🟩⬛⬛🟨\nkench: ⬛⬛⬛🟩🟩\n\nWhat must be the target word? Just provide the word.","output":"witch"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nnevus: ⬛🟨🟩⬛🟩\nwards: 🟩⬛⬛⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"wives"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nrewin: ⬛⬛🟨⬛🟩\nsmout: ⬛🟨🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"woman"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nresun: ⬛🟨⬛⬛🟩\nsword: ⬛🟨🟨⬛⬛\nmiaul: 🟨⬛⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"women"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nyowed: ⬛🟩🟨⬛🟨\ngoral: ⬛🟩🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"words"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nkirns: 🟨⬛🟩⬛🟩\ncolds: ⬛🟩⬛⬛🟩\nupdry: ⬛⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"works"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbowly: ⬛🟩🟨🟩⬛\npirol: ⬛⬛🟩🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"world"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nswarf: ⬛🟨⬛🟩⬛\nporky: ⬛🟩🟩⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"worry"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nbones: ⬛🟩⬛🟨🟨\nwaird: 🟩⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"worse"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nstrew: 🟨🟨🟩⬛🟨\nceros: ⬛⬛🟩🟨🟨\n\nWhat must be the target word? Just provide the word.","output":"worst"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndoubt: 🟨🟩🟩⬛⬛\ngnaws: ⬛⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"would"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nwoman: 🟩🟩⬛⬛🟨\nadobe: ⬛🟨🟨⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"wound"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nernes: ⬛🟩⬛⬛🟨\ncrowd: ⬛🟩⬛🟨⬛\ngirns: ⬛🟨🟨⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"wrist"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nswire: ⬛🟨🟩🟨🟩\nfloyt: ⬛⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"write"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nwaxen: 🟩⬛⬛⬛🟨\nremop: 🟨⬛⬛🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"wrong"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nwyver: 🟩⬛⬛🟨🟨\nsteam: ⬛🟨🟨⬛⬛\ntrouv: 🟨🟩🟩⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"wrote"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\narchy: 🟨⬛🟩🟩🟨\n\nWhat must be the target word? Just provide the word.","output":"yacht"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nrenay: 🟨🟩⬛🟨🟨\nfoals: ⬛⬛🟩⬛🟩\n\nWhat must be the target word? Just provide the word.","output":"years"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nmenat: ⬛🟩⬛🟨🟩\ngundy: ⬛⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"yeast"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\ndault: 🟨⬛⬛🟩⬛\nyesso: 🟩🟨⬛⬛⬛\n\nWhat must be the target word? Just provide the word.","output":"yield"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nlouts: ⬛🟩🟩⬛🟩\nlazys: ⬛⬛⬛🟨🟩\n\nWhat must be the target word? Just provide the word.","output":"yours"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nghoul: ⬛🟨🟨🟨⬛\nupsey: 🟨⬛⬛⬛🟨\n\nWhat must be the target word? Just provide the word.","output":"youth"}
+{"input":"I'm playing Wordle. Here are my guesses so far:\n\nkinot: ⬛⬛🟩🟨⬛\ncozed: ⬛🟩🟨🟩⬛\ngront: ⬛⬛🟨🟨⬛\n\nWhat must be the target word? Just provide the word.","output":"zones"}

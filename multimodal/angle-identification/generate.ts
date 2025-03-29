@@ -36,7 +36,7 @@ function drawAngle(degree: number, size = 512) {
   ctx.strokeStyle = "blue";
   ctx.lineWidth = 1;
   ctx.beginPath();
-  ctx.arc(centerX, centerY, radius * 0.2, 0, radians, degree > 180);
+  ctx.arc(centerX, centerY, radius * 0.2, 0, -radians, true);
   ctx.stroke();
 
   // Add center dot
@@ -56,8 +56,8 @@ const outputStream = await Deno.open("case.jsonl", {
 });
 const encoder = new TextEncoder();
 
-// Generate test cases for all angles from 0 to 360 degrees
-for (let degree = 0; degree <= 360; degree++) {
+// Generate test cases for all angles from 1 to 360 degrees
+for (let degree = 1; degree <= 360; degree++) {
   const angleCanvas = drawAngle(degree);
   const pngBuffer = angleCanvas.toBuffer();
   const b64 = btoa(String.fromCharCode(...pngBuffer));
