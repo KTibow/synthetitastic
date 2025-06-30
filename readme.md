@@ -21,6 +21,8 @@ And we have these tests
 Here are the results:
 ### Day of week
 
+GPT-4.5: 8/10
+
 Llama 70b: 2/10
 
 Llama Maverick: 7/10
@@ -34,6 +36,8 @@ R1 0528: 8/10
 R1: 8/10
 
 ### Epoch conversion
+
+GPT-4.5: 0/10
 
 Llama 70b: 0/10
 
@@ -49,6 +53,8 @@ R1: 0/10
 
 ### Large multiplication
 
+GPT-4.5: 0/10
+
 Llama 70b: 0/10
 
 Llama Maverick: 2/10
@@ -62,6 +68,8 @@ R1 0528: 10/10
 R1: 10/10
 
 ### Largest number
+
+GPT-4.5: 8/10
 
 Llama 70b: 3/21
 
@@ -77,6 +85,8 @@ R1: 7/10
 
 ### Letter counting
 
+GPT-4.5: 10/10
+
 Llama 70b: 6/10
 
 Llama Maverick: 5/10
@@ -90,6 +100,8 @@ R1 0528: 9/10
 R1: 10/10
 
 ### Wordle
+
+GPT-4.5: 2/10
 
 Llama 70b: 0/10
 
