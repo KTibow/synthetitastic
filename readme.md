@@ -51,7 +51,15 @@ R1: 10/10
 
 ### Largest number
 
-Llama 70b: 3/10
+Llama 70b: 3/21
+
+Llama Scout: 4/21
+
+Llama Maverick: 6/21
+
+Qwen 235B (after 6k tokens of thinking): 17/21
+
+R1 0528 (after 14.5k tokens of thinking): 20/21
 
 Claude 3.7: 5/10
 
