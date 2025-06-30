@@ -23,9 +23,13 @@ Here are the results:
 
 Llama 70b: 2/10
 
+Llama Maverick: 7/10
+
+Qwen 235B (thinking): 5/10
+
 Claude 3.7: 0/10
 
-QwQ max: 8/10
+R1 0528: 8/10
 
 R1: 8/10
 
@@ -33,9 +37,13 @@ R1: 8/10
 
 Llama 70b: 0/10
 
+Llama Maverick: 0/10
+
+Qwen 235B (thinking): 0/10
+
 Claude 3.7: 0/10
 
-QwQ max: 2/10
+R1 0528: 1/10
 
 R1: 0/10
 
@@ -43,9 +51,13 @@ R1: 0/10
 
 Llama 70b: 0/10
 
+Llama Maverick: 2/10
+
+Qwen 235B (thinking): 0/10
+
 Claude 3.7: 0/10
 
-QwQ max: 9/10
+R1 0528: 10/10
 
 R1: 10/10
 
@@ -53,17 +65,13 @@ R1: 10/10
 
 Llama 70b: 3/21
 
-Llama Scout: 4/21
-
 Llama Maverick: 6/21
 
 Qwen 235B (after 6k tokens of thinking): 17/21
 
-R1 0528 (after 14.5k tokens of thinking): 20/21
-
 Claude 3.7: 5/10
 
-QwQ max: 7/10
+R1 0528 (after 14.5k tokens of thinking): 20/21
 
 R1: 7/10
 
@@ -71,9 +79,13 @@ R1: 7/10
 
 Llama 70b: 6/10
 
+Llama Maverick: 5/10
+
+Qwen 235B (thinking): 8/10
+
 Claude 3.7: 6/10
 
-QwQ max: 10/10
+R1 0528: 9/10
 
 R1: 10/10
 
@@ -81,9 +93,13 @@ R1: 10/10
 
 Llama 70b: 0/10
 
+Llama Maverick: 0/10
+
+Qwen 235B (thinking): 0/10
+
 Claude 3.7: 2/10
 
-QwQ max: 5/10
+R1 0528: 10/10
 
 R1: 9/10
 
